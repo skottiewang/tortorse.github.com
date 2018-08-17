@@ -11,12 +11,12 @@ tags:
   - 互联网
   - 微软
 ---
-<a href="/wp-content/uploads/200602/06_130343_winlive.mobilebeta.logo.gif" target="_blank"><img src="/wp-content/uploads/200602/06_130343_winlive.mobilebeta.logo.gif" alt="/wp-content/uploads/200602/06_130343_winlive.mobilebeta.logo.gif" /></a>
+![winlive](/wp-content/uploads/200602/06_130343_winlive.mobilebeta.logo.gif)
   
-晕，我申请的是Windows Live Mail Beta :cry: 
+晕，我申请的是Windows Live Mail Beta :(
 
-<a href="/wp-content/uploads/200602/06_130052_live_top.gif" target="_blank"><img src="/wp-content/uploads/200602/06_130052_live_top.gif" alt="/wp-content/uploads/200602/06_130052_live_top.gif" /></a>
+![winlivemobile](/wp-content/uploads/200602/06_130052_live_top.gif)
 
-我根本不想要这个阿，GRPS还没开呢~只好用模拟器了 :cry: 
+我根本不想要这个阿，GRPS还没开呢~只好用模拟器了 :(
 
-<a href="/wp-content/uploads/200602/06_130226_live_buttom.gif" target="_blank"><img src="/wp-content/uploads/200602/06_130226_live_buttom.gif" alt="/wp-content/uploads/200602/06_130226_live_buttom.gif" /></a>
+![live-search-beta](/wp-content/uploads/200602/06_130226_live_buttom.gif)
