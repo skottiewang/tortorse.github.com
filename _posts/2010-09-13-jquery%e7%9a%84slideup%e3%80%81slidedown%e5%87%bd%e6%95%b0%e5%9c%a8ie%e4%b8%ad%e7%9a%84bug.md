@@ -1,0 +1,25 @@
+---
+id: 342
+title: jquery的slideUp、slideDown在IE中的闪动bug
+date: 2010-09-13T15:51:51+00:00
+author: 愆伏
+layout: post
+guid: http://www.tortorse.com/?p=342
+permalink: /archives/342
+dsq_thread_id:
+  - "3444278284"
+categories:
+  - 技术
+tags:
+  - 前端
+  - jquery
+---
+<span style="color: #888888;">要是我再不写，对不起国家对不起党啊。也对不起ucdchina给我的链接。指点江山的文字就不必多说了，大家都知道没什么实际用处。BOSS开会说，管理人员不下一线直接操作是不能够发现的问题的。所以最近做了一段时间编辑，也做了一些图片，这2天又回归到前端。算是重新对自己锻炼吧。</span>
+
+可能做前端的同学都会遇到制作下拉菜单。以前的做法是利用hover属性来对另外一个隐藏容器做display的变化。随着js不断被认知，jquery丰富的函数库。前端也可以做出有一定效果的下拉菜单。那么用到比较多的就是slideup以及有关的slideDown。
+
+不过在真正制作的时候会出现一些问题，我也遇到了。在IE下，特别是IE6下面体现十分诡异的效果。就是鼠标放在菜单上，下拉菜单自动不停的上下滑动，十分讨厌。到网上搜了下资料，说是这问题是由于容器使用了<span style="color: #ff0000;">position的relative或者absolute导致</span>。解决方法只有一种：不用position定位
+
+鉴于项目本身的要求，不可能不用position定位(原因极其复杂)。因此所谓的解决方案是不存在的，于是我猜测异常情况是由于position定位造成容器的渲染顺序或layout造成的。后来我尝<span style="color: #ff0000;">试用zoom:1</span>来触发容器的hasLayout，问题解除了。
+
+目前的解决方案也只是我的猜测，存在一定的运气和偶然，如果有同学遇到类似的问题，我们可以深入研究一下。

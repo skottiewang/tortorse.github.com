@@ -1,0 +1,38 @@
+---
+id: 17
+title: Windows Live Mail到手
+date: 2006-02-08T10:18:04+00:00
+author: 愆伏
+layout: post
+permalink: /archives/17
+categories:
+  - 生活
+tags:
+  - 互联网
+  - 微软
+---
+<a href="/wp-content/uploads/200602/08_101945_windows_live_logo_cn.gif" target="_blank"><img src="/wp-content/uploads/200602/08_101945_windows_live_logo_cn.gif" alt="/wp-content/uploads/200602/08_101945_windows_live_logo_cn.gif" /></a>
+  
+终于收到了邀请，真是不容易啊 :mad:
+  
+今天大概“体验”了一把，主要说说对主界面的感觉，还没试着发邮件。
+
+**先说说优点**
+
+  * 速度很快，AJAX果然很爽
+  * 右键菜单，很符合WINDOWS的风格
+
+<a href="/wp-content/uploads/200602/08_184830_lm_2.jpg" target="_blank"><img src="/wp-content/uploads/200602/08_184830_lm_2.jpg" alt="/wp-content/uploads/200602/08_184830_lm_2.jpg" /></a>
+
+  * 界面很干净，广告很大很醒目(这也算有点。。。)
+  * 很多功能支持拖放管理
+
+<a href="/wp-content/uploads/200602/08_184409_lm_1.jpg" target="_blank"><img src="/wp-content/uploads/200602/08_184409_lm_1.jpg" alt="/wp-content/uploads/200602/08_184409_lm_1.jpg" /></a>
+
+**再说说缺点**
+
+  * 信息可视区域比较小
+  * 布局的弹性不够，拖来拖去用处不大
+  * 收件箱视图中，功能、信箱、内容三列必须同时显示在页面上。
+
+<a href="/wp-content/uploads/200602/08_185225_lm_3.jpg" target="_blank"><img src="/wp-content/uploads/200602/08_185225_lm_3.jpg" alt="/wp-content/uploads/200602/08_185225_lm_3.jpg" /></a>
