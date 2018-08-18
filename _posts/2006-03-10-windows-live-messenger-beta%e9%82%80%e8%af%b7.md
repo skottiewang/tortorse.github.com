@@ -13,18 +13,18 @@ tags:
   - 互联网
   - 微软
 ---
-终于收到了~ :cool:
+终于收到了
   
 已邀请：
   
-<s>abinlive@msn.com
+~~abinlive@msn.com~~
+
+~~ww@challenger.com.cn~~
+
+~~jokeryard@hotmail.com~~
+
+~~cnaspx@hotmail.com~~
+
+~~emilyalt198@hotmail.com~~
   
-ww@challenger.com.cn
-  
-jokeryard@hotmail.com
-  
-cnaspx@hotmail.com
-  
-emilyalt198@hotmail.com </s>
-  
-现在还剩14个，要得跟帖留下email
+~~现在还剩14个，要得跟帖留下email~~
