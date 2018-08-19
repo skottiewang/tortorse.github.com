@@ -11,7 +11,7 @@ categories:
 tags:
   - flutter
 ---
-按照[flutter官方教程](https://flutter.io/setup-windows/)进行到了`Android setup`中的`Set up the Android emulator`
+按照 [flutter官方教程](https://flutter.io/setup-windows/) 进行到了 `Android setup` 中的 `Set up the Android emulator`
 
 一切就绪之后开始启动模拟器，一直报 `error code 1`
 
@@ -27,6 +27,6 @@ tags:
 
 问题解决了。
 
-官方文档中有一个[Enable VM acceleration](https://developer.android.com/studio/run/emulator-acceleration.html)
+官方文档中有一个 [Enable VM acceleration](https://developer.android.com/studio/run/emulator-acceleration.html)
 
 但是怎么Enable并没有说的很清楚，所以如果发现以上问题先查下机器的设置。
