@@ -11,51 +11,15 @@ categories:
 tags:
   - vue
 ---
-<div id="toc_container" class="no_bullets">
-  <p class="toc_title">
-    Contents
-  </p>
-  
-  <ul class="toc_list">
-    <li>
-      <a href="#1_emit_event">1. emit event</a><ul>
-        <li>
-          <a href="#child_component">child component</a>
-        </li>
-        <li>
-          <a href="#parent_component">parent component</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      <a href="#2_props_function">2. props function</a><ul>
-        <li>
-          <a href="#child_component-2">child component</a>
-        </li>
-        <li>
-          <a href="#parent_component-2">parent component</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      <a href="#3">3. 实验结果和理解</a>
-    </li>
-    <li>
-      <a href="#4">4. 可能的问题</a>
-    </li>
-  </ul>
-</div>
+## 1. emit event
 
-## <span id="1_emit_event">1. emit event</span>
+### child component
 
-### <span id="child_component">child component</span><pre data-language=HTML>
-
-<code class="language-markup ">&lt;template&gt;
-  &lt;button @click="foo"&gt;Button&lt;/button&gt;
-&lt;/template&gt;
-&lt;script&gt;
+```html
+<template>
+  <button @click="foo">Button</button>
+</template>
+<script>
 export default {
   name: 'my-button',
   methods:{
@@ -64,15 +28,15 @@ export default {
     }
   }
 }
-&lt;/script&gt;
-</code></pre> 
+</script>
+```
+### parent component
 
-### <span id="parent_component">parent component</span><pre data-language=HTML>
-
-<code class="language-markup ">&lt;template&gt;
-  &lt;my-button @onClick="handleClick"&gt;&lt;/my-button&gt;
-&lt;/template&gt;
-&lt;script&gt;
+```html
+<template>
+  <my-button @onClick="handleClick"></my-button>
+</template>
+<script>
 import myButton from '@/components/myButton'
 export default {
   components: { myButton }
@@ -82,17 +46,18 @@ export default {
     }
   }
 }
-&lt;/script&gt;
-</code></pre> 
+</script>
+```
 
-## <span id="2_props_function">2. props function</span>
+## 2. props function 
 
-### <span id="child_component-2">child component</span><pre data-language=HTML>
+### child component
 
-<code class="language-markup ">&lt;template&gt;
-  &lt;button @click="onClick"&gt;Button&lt;/button&gt;
-&lt;/template&gt;
-&lt;script&gt;
+```html
+<template>
+  <button @click="onClick">Button</button>
+</template>
+<script>
 export default {
   name: 'my-button',
   props: {
@@ -101,15 +66,15 @@ export default {
     }
   }
 }
-&lt;/script&gt;
-</code></pre> 
+</script>
+```
+### parent component
 
-### <span id="parent_component-2">parent component</span><pre data-language=HTML>
-
-<code class="language-markup ">&lt;template&gt;
-  &lt;my-button :onClick="handleClick"&gt;&lt;/my-button&gt;
-&lt;/template&gt;
-&lt;script&gt;
+```html
+<template>
+  <my-button :onClick="handleClick"></my-button>
+</template>
+<script>
 import myButton from '@/components/myButton'
 export default {
   components: { myButton }
@@ -119,10 +84,10 @@ export default {
     }
   }
 }
-&lt;/script&gt;
-</code></pre> 
+</script>
+```
 
-## <span id="3">3. 实验结果和理解</span>
+## 3. 实验结果和理解
 
 `父组件`不知道事件什么时候会发生，因为事件的监听和处理都在`子组件`里
 
@@ -132,14 +97,15 @@ export default {
 
 两种方式的运行结果是一样的，写法上和理解上有差别。
 
-  1. 在emit的情况下 
-    父组件能够监听到事件的发生，并且决定在事件发生时做什么
+1. 在emit的情况下
 
-  2. 在props的情况下
-    
-    父组件不知道事件发生与否，只能指令子组件在发生时做什么处理
+	父组件能够监听到事件的发生，并且决定在事件发生时做什么
 
-## <span id="4">4. 可能的问题</span>
+2. 在props的情况下
 
-  1. 是否存在父组件要对子组件产生的事件进行搜集并处理? 第二种方式可能就歇菜
-  2. 第二种方式对传入的Function内部是无法校验的，不过第一种也只是回避，本来就不校验
+	父组件不知道事件发生与否，只能指令子组件在发生时做什么处理
+
+## 4. 可能的问题
+
+1. 是否存在父组件要对子组件产生的事件进行搜集并处理? 第二种方式可能就歇菜
+2. 第二种方式对传入的Function内部是无法校验的，不过第一种也只是回避，本来就不校验

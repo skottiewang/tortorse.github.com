@@ -9,7 +9,7 @@ permalink: /archives/759
 categories:
   - 技术
 ---
-  * 首先得先有一个独立的wordpress博客
-  * 然后安装jetpack，并激活markdown插件
-  * 然后本机安装Sublimetext3
-  * 用Package control安装Sublpress，一般都安装不了，自己Git到插件目录好了
+ - 首先得先有一个独立的 `wordpress` 博客
+ - 然后安装 `jetpack`，并激活`markdown`插件
+ - 然后本机安装 `Sublimetext3`
+ - 用 `Package control` 安装 `Sublpress`，一般都安装不了，自己Git到插件目录好了
