@@ -20,7 +20,7 @@ tags:
 
 - 放在blog程序的根目录下
 
-- 先修改Ft_word_flash.asp的数据库配置
+- 先修改 `Ft_word_flash.asp` 的数据库配置
 
 ```asp
 dbbankword="data#v390/englishword.asp" //将引号中的配置改为你自己的
