@@ -1,0 +1,55 @@
+/* CSS Document */
+body{
+text-align:center;
+background:scrollbar;
+font-size:12px;}
+table {
+background:scrollbar;
+color:#000;
+font-size:12px;
+}
+table th,td{
+padding:0 0 0 4px;
+text-align:left;
+font-weight:normal;
+border-top:1px solid window;
+border-right:1px solid threedshadow;
+border-bottom:1px solid threedshadow;
+border-left:1px solid window;}
+
+input{
+width:120px;
+height:18px;
+margin:0;
+padding:0;
+border:none;
+background:none;
+}
+
+td.write{
+border-top:1px solid threedshadow;
+border-right:1px solid window;
+border-bottom:1px solid window;
+border-left:1px solid threedshadow;
+}
+
+td.select{
+border-top:1px solid threedshadow;
+border-right:1px solid window;
+border-bottom:1px solid window;
+border-left:1px solid threedshadow;
+}
+ol{
+text-align:left;}
+li{
+list-style:decimal;}
+legend{
+margin:10px 0 0 0;}
+fieldset{
+margin:10px 0 0 0;
+width:90%;
+height:260px;}
+
+button{
+height:20px;}
+

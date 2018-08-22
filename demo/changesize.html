@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+.c_h1{font-size:28px;}
+.c_h2{font-size:24px;}
+.c_h3{font-size:20px;}
+.c_h4{font-size:16px;}
+.c_h5{font-size:14px;}
+.c_h6{font-size:12px;}
+.c_h7{font-size:11px;}
+</style>
+<script type="text/javascript">
+	function changeSize(){
+	c_size = document.getElementById("text_size").value;
+	c_content = document.getElementById("content");
+	switch(c_size)
+	   {
+	   case 'h1':
+		 c_content.className='c_h1'
+		 break
+	   case 'h2':
+		 c_content.className='c_h2'
+		 break
+	   case 'h3':
+		 c_content.className='c_h3'
+		 break
+	   case 'h4':
+		 c_content.className='c_h4'
+		 break
+	   case 'h5':
+		 c_content.className='c_h5'
+		 break
+	   case 'h6':
+		 c_content.className='c_h6'
+		 break
+	   case 'h7':
+		 c_content.className='c_h7'
+		 break
+	   default:
+		 alert('你输入的字体大小有误')
+	   }
+	}
+</script>
+</head>
+
+<body>
+<div class="h5" id="content">这里是要变字体的文字</div>
+<input type="text" value="" id="text_size"/>
+<input type="button" value="改变字体" onclick="changeSize()"/>
+</body>
+</html>
