@@ -13,7 +13,7 @@ tags:
   - 美食
   - 生活
 ---
-![meet](/wp-content/uploads/200607/23_230509_3.jpg)
+![meat](/wp-content/uploads/200607/23_230509_3.jpg)
 
 > 图片为成品实例，手机拍摄效果稍差
   
