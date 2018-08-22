@@ -11,9 +11,9 @@ tags:
   - 生活
   - 阅读
 ---
-<a href="/wp-content/uploads/200704/01_102847_s2127448.jpg" target="_blank"><img src="/wp-content/uploads/200704/01_102847_s2127448.jpg" alt="/wp-content/uploads/200704/01_102847_s2127448.jpg" /></a>
+![高考](/wp-content/uploads/200704/01_102847_s2127448.jpg)
 
-<span style="color:Red">此篇来自旧blog,2005-10-22写</span>
+此篇来自旧 `blog`, `2005-10-22` 写
 
 N久没有看过小说，到台州出差的每个晚上都无聊赖，于是用每晚睡前的时间看完了一篇小说。
   
