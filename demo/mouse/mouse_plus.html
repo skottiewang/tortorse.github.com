@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>鼠标点击事件</title>
+<link href="mouse.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+function editText(obj){
+var dateBox=obj.parentElement;
+if(dateBox.className=="select"){
+obj.readOnly=false;
+dateBox.className="write";
+obj.select();
+}
+if(dateBox.className=="")
+{dateBox.className="select"}
+}
+function readText(obj){
+var dateBox=obj.parentElement;
+obj.readOnly=true;
+dateBox.className="";
+}
+
+function openDetail(){
+showModelessDialog('modeldiag.html',window,'status:no;dialogWidth:300px;dialogHeight:320px;dialogTop:150px;dialogLeft:80px;help:no')
+}
+
+
+
+</script>
+<link href="mouse.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<h1>鼠标点击事件</h1>
+<table cellpadding="0" cellspacing="0">
+	<tr>
+		<th width="40">姓名</th>
+		<th width="40">性别</th>
+		<th width="120">时间</th>
+		<th width="80">操作</th>
+  </tr>
+  <tr>
+    <td>李世民</td>
+    <td>男</td>
+	<td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"/></td>
+	<td><button onclick="openDetail()">详细信息</button></td>
+  </tr>
+    <tr>
+    <td>尉迟敬德</td>
+    <td>男</td>
+	<td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"/></td>
+	<td><button onclick="openDetail()">详细信息</button></td>
+    </tr>
+    <tr>
+    <td>李靖</td>
+    <td>男</td>
+	<td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"/></td>
+	<td><button onclick="openDetail()">详细信息</button></td>
+    </tr>
+    <tr>
+    <td>红拂</td>
+    <td>女</td>
+	<td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"/></td>
+	<td><button onclick="openDetail()">详细信息</button></td>
+    </tr>
+</table>
+<ol>
+  <li>在日期上点击一下鼠标，该单元格被选中</li>
+  <li>再次点击该单元格，该单元格可写</li>
+  <li>点击"详细信息"按钮，弹出详细信息对话框</li>
+</ol>
+</body>
+</html>

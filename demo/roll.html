@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>小球动画</title>
+<style type="text/css">
+#ball a{
+width:30px;
+height:48px;
+background:url(images/ball.jpg);
+background-repeat:no-repeat;
+display:block;}
+</style>
+</head>
+<body>
+<h1>滑动门动画</h1>
+把鼠标放在小球上，小球就会下坠
+<div id="ball" onmouseover="play()" onmouseout="ani_0()"><a href="#"></a></div>
+<script type="text/javascript">
+var oBall=document.getElementsByTagName("a");
+function ani_0(){
+oBall[0].style.backgroundPosition="0 0";}
+function ani_1(){
+oBall[0].style.backgroundPosition="-30px 0";}
+function ani_2(){
+oBall[0].style.backgroundPosition="-60px 0";}
+function ani_3(){
+oBall[0].style.backgroundPosition="-90px 0";}
+function ani_4(){
+oBall[0].style.backgroundPosition="-120px 0";}
+function ani_5(){
+oBall[0].style.backgroundPosition="-150px 0";}
+function ani_6(){
+oBall[0].style.backgroundPosition="-180px 0";}
+function ani_7(){
+oBall[0].style.backgroundPosition="-210px 0";}
+function ani_8(){
+oBall[0].style.backgroundPosition="-240px 0";}
+function ani_9(){
+oBall[0].style.backgroundPosition="-270px 0";}
+
+function play(){
+setTimeout(ani_2,150);
+setTimeout(ani_3,200);
+setTimeout(ani_4,250);
+setTimeout(ani_5,300);
+setTimeout(ani_6,350);
+setTimeout(ani_7,400);
+setTimeout(ani_8,450);
+setTimeout(ani_9,500);
+}
+
+
+</script>
+<span style="display:none">
+<script language="javascript" src="http://count4.51yes.com/click.aspx?id=48122324&logo=12" charset="gb2312"></script>
+</span>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</body>
+</html>
