@@ -11,5 +11,5 @@ tags:
   - 生活
 ---
 看图，不说话
-  
-<a href="/wp-content/uploads/200708/12_211347_chinatelcom.jpg" target="_blank"><img src="/wp-content/uploads/200708/12_211347_chinatelcom.jpg" alt="/wp-content/uploads/200708/12_211347_chinatelcom.jpg" /></a>
+
+![chinatelcom](/wp-content/uploads/200708/12_211347_chinatelcom.jpg)

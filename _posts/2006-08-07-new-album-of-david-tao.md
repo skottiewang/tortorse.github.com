@@ -11,7 +11,9 @@ tags:
   - 生活
   - 音乐
 ---
-<a href="/wp-content/uploads/200608/09_191438_35692.jpg" target="_blank"><img src="/wp-content/uploads/200608/09_191438_35692.jpg" style="float: left;display:inline;margin-right:10px;"  onload="javascript:DrawImage(this,500);" class="img_normal" /></a>万变不离其宗：曲风软摇滚+R&B+复古，歌词不离爱你爱我。
+![太美丽](/wp-content/uploads/200608/09_191438_35692.jpg)
+
+万变不离其宗：曲风 软摇滚 + `R&B` + 复古，歌词不离爱你爱我。
   
 《太美丽》里我听不出《melody》的真挚
   
@@ -25,6 +27,6 @@ tags:
   
 不过为了对得起这个域名,怎么地也放点信息吧
   
-官方宣传网站(做的满不错的), <a href="http://www.davidtao.com/beautiful/" title="http://www.davidtao.com/beautiful/" target="_blank">点击进入</a>
+[官方宣传网站](http://www.davidtao.com/beautiful/)，做的满不错的
   
 商业化啊。。。这就是商业化
