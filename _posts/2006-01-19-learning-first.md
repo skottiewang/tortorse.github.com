@@ -3,7 +3,7 @@ id: 1
 title: 人间大炮
 date: 2006-01-19T19:04:40+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/1
 categories:
   - 故事

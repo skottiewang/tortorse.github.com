@@ -3,7 +3,7 @@ id: 97
 title: 巷说百物语评论
 date: 2007-04-01T11:18:19+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/97
 categories:
   - 生活

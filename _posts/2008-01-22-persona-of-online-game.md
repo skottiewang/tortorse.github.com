@@ -3,7 +3,7 @@ id: 132
 title: 网游3种人？
 date: 2008-01-22T20:31:22+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/132
 categories:
   - 生活

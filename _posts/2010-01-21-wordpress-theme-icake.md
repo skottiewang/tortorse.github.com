@@ -3,8 +3,8 @@ id: 324
 title: wordpress主题发布:iCake 1.0
 date: 2010-01-21T18:11:35+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=324
+
+guid: https://www.tortorse.com/?p=324
 permalink: /archives/324
 dsq_thread_id:
   - "3444277261"
@@ -16,7 +16,7 @@ tags:
 ---
 ![icake](https://www.tortorse.com/wp-content/uploads/2010/01/icake.jpg)
 
-大概断断续续花了3天时间制作了这个主题，由于风格比较 cute 不太适合本人这样的大老爷们，所以发布出来给大家用吧。[同事smigoo](http://www.smigoo.net/blog/)已经在使用了。
+大概断断续续花了3天时间制作了这个主题，由于风格比较 cute 不太适合本人这样的大老爷们，所以发布出来给大家用吧。[同事smigoo](https://www.smigoo.net/blog/)已经在使用了。
 
 > 2010-1-22:在sim的报告下，发现了一个评论的bug，原因是评论循环的时候少关闭了一个div,如今此bug已经修复。
 

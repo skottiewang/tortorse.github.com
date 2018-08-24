@@ -3,7 +3,7 @@ id: 141
 title: Avant Browser的复兴
 date: 2008-04-25T10:27:54+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/141
 categories:
   - 故事
@@ -31,4 +31,4 @@ tags:
   
 如今 `Maxthon` 的市场占有率已经很可观，`Avant Browser` 卷土重来的机会有多大，我持观望态度。
 
-有兴趣的朋友可以去下载用用看：<http://www.avantbrowser.cn>
+有兴趣的朋友可以去下载用用看：<https://www.avantbrowser.cn>

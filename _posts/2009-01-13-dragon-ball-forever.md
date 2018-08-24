@@ -3,8 +3,8 @@ id: 211
 title: 永远的龙珠
 date: 2009-01-13T21:54:49+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/archives/211
+
+guid: https://www.tortorse.com/archives/211
 permalink: /archives/211
 aktt_notify_twitter:
   - 'no'

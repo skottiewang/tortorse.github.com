@@ -3,7 +3,7 @@ id: 23
 title: 高达症候群典型症状
 date: 2006-02-18T16:33:43+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/23
 categories:
   - 生活

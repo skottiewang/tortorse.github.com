@@ -3,8 +3,8 @@ id: 342
 title: jquery的slideUp、slideDown在IE中的闪动bug
 date: 2010-09-13T15:51:51+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=342
+
+guid: https://www.tortorse.com/?p=342
 permalink: /archives/342
 dsq_thread_id:
   - "3444278284"

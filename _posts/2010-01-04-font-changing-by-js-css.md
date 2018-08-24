@@ -3,8 +3,8 @@ id: 305
 title: js+css控制字体变换
 date: 2010-01-04T20:49:35+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/archives/305
+
+guid: https://www.tortorse.com/archives/305
 permalink: /archives/305
 dsq_thread_id:
   - "3444278099"

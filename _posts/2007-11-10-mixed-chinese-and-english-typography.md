@@ -3,7 +3,7 @@ id: 124
 title: 中英文文字混排bug,不完美解决方案
 date: 2007-11-10T00:02:26+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/124
 aktt_notify_twitter:
   - 'no'

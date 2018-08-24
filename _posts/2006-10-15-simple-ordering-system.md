@@ -3,7 +3,7 @@ id: 74
 title: 简单订餐系统
 date: 2006-10-15T22:25:38+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/74
 dsq_thread_id:
   - "3444279755"

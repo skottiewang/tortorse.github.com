@@ -3,7 +3,7 @@ id: 33
 title: Windows Live Messenger Beta邀请
 date: 2006-03-10T11:40:28+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/33
 dsq_thread_id:
   - "3444276845"

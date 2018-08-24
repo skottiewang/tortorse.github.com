@@ -3,7 +3,7 @@ id: 58
 title: 1个form,2个action
 date: 2006-07-03T17:50:53+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/58
 aktt_notify_twitter:
   - 'no'

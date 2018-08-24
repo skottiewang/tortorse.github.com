@@ -3,7 +3,7 @@ id: 20
 title: 项目管理与团队士气
 date: 2006-02-15T19:22:42+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/20
 categories:
   - 技术

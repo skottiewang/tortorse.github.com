@@ -3,7 +3,7 @@ id: 56
 title: LBS汉化后的一个小问题
 date: 2006-06-25T23:18:07+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/56
 categories:
   - 技术

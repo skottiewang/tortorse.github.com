@@ -3,7 +3,7 @@ id: 67
 title: 标题文字过长的截取
 date: 2006-08-03T22:40:50+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/67
 aktt_notify_twitter:
   - 'no'

@@ -3,7 +3,7 @@ id: 36
 title: 在杭州
 date: 2006-03-17T12:33:49+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/36
 categories:
   - 生活

@@ -3,8 +3,8 @@ id: 274
 title: 改裤衩
 date: 2009-09-29T21:10:18+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/archives/274
+
+guid: https://www.tortorse.com/archives/274
 permalink: /archives/274
 dsq_thread_id:
   - "3444278034"

@@ -3,8 +3,8 @@ id: 328
 title: 君要臣死，臣不得不死
 date: 2010-03-25T21:22:11+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/archives/328
+
+guid: https://www.tortorse.com/archives/328
 permalink: /archives/328
 dsq_thread_id:
   - "3444278231"

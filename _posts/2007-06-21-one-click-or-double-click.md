@@ -3,7 +3,7 @@ id: 105
 title: 双击还是单击？
 date: 2007-06-21T21:58:27+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/105
 categories:
   - 设计

@@ -10,8 +10,8 @@ excerpt: |
   3. 愤怒摔石图
   前2个好理解，要说到这“愤怒摔石图”是啥玩意儿，估计很多人都不知道。因为这是zhanghua同学给起的名字。
   “愤怒摔石图”起源于员工QQ群里的这张猫摔鱼的表情
-layout: post
-guid: http://www.tortorse.com/?p=276
+
+guid: https://www.tortorse.com/?p=276
 permalink: /archives/276
 dsq_thread_id:
   - "3444278057"
@@ -27,7 +27,7 @@ tags:
 2. 流行词汇 `悲剧啊`
 3. 愤怒摔食图
 
-前2个好理解，要说到这 `愤怒摔食图` 是啥玩意儿，估计很多人都不知道。因为这是 [zhanghua](http://www.zzhua.net/) 同学给起的名字。
+前2个好理解，要说到这 `愤怒摔食图` 是啥玩意儿，估计很多人都不知道。因为这是 [zhanghua](https://www.zzhua.net/) 同学给起的名字。
 
 这个表情实在是代表了目前很多人的心声啊，一边摔一边骂的感觉实在是……
 

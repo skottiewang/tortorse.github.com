@@ -3,7 +3,7 @@ id: 101
 title: 彩虹文字生成器
 date: 2007-05-14T20:01:33+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/101
 categories:
   - 技术

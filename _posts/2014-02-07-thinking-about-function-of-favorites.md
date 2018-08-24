@@ -3,8 +3,8 @@ id: 624
 title: 关于收藏夹功能的思考
 date: 2014-02-07T15:04:19+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=624
+
+guid: https://www.tortorse.com/?p=624
 permalink: /archives/624
 dsq_thread_id:
   - "3444401124"

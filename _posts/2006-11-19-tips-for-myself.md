@@ -3,7 +3,7 @@ id: 79
 title: 提醒自己记住的话
 date: 2006-11-19T20:57:01+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/79
 dsq_thread_id:
   - "3444280362"

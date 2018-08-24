@@ -3,8 +3,8 @@ id: 161
 title: 育儿网招聘网页设计师
 date: 2009-04-09T10:00:01+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/archives/161
+
+guid: https://www.tortorse.com/archives/161
 permalink: /archives/161
 dsq_thread_id:
   - "3444280929"

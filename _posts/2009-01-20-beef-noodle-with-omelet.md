@@ -3,8 +3,8 @@ id: 214
 title: 干切牛肉雪菜面加煎蛋x2
 date: 2009-01-20T20:26:04+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/archives/214
+
+guid: https://www.tortorse.com/archives/214
 permalink: /archives/214
 dsq_thread_id:
   - "3444277671"

@@ -4,8 +4,8 @@ title: google calendar的另类用法
 date: 2009-03-16T21:28:43+00:00
 author: 愆伏
 excerpt: 我一直是把calendar变相的作为todolist来用的，这种用法我自己觉得很邪门，给别人看的时候别人也觉得挺邪乎。但在团队里普及的还算不错，大家都开始这么汇报和记录工作了。
-layout: post
-guid: http://www.tortorse.com/archives/226
+
+guid: https://www.tortorse.com/archives/226
 permalink: /archives/226
 dsq_thread_id:
   - "3444277694"
@@ -15,7 +15,7 @@ tags:
   - 互联网
   - google
 ---
-白鸦写了一篇文章 [为什么不能合到一起](http://uicom.net/blog/?p=818)，这个问题我也想问。在 `gmail`里出现 `todolist` 的时候我还在想是不是 `todolist`和 `calendar` 快要整合了，结果发现好像 `google` 暂时没那意思。
+白鸦写了一篇文章 [为什么不能合到一起](https://uicom.net/blog/?p=818)，这个问题我也想问。在 `gmail`里出现 `todolist` 的时候我还在想是不是 `todolist`和 `calendar` 快要整合了，结果发现好像 `google` 暂时没那意思。
 
 其实我一直是把 `calendar` 变相的作为 `todolist` 来用的，这种用法我自己觉得很邪门，给别人看的时候别人也觉得挺邪乎。但在团队里普及的还算不错，大家都开始这么汇报和记录工作了。具体用法如下：
 

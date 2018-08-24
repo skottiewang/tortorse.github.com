@@ -3,7 +3,7 @@ id: 116
 title: 设计有益
 date: 2007-08-25T18:12:29+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/116
 categories:
   - 设计
@@ -11,7 +11,7 @@ tags:
   - 互联网
   - 设计
 ---
-上次听 [JunChen](http://www.junchenwu.com) 说：“设计师有时候更应该是发明家”
+上次听 [JunChen](https://www.junchenwu.com) 说：“设计师有时候更应该是发明家”
 
 课本上对设计的定义是“有目标和计划的创作行为”
 

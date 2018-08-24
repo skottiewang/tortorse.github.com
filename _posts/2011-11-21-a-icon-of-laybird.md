@@ -3,8 +3,8 @@ id: 372
 title: 瓢虫图标
 date: 2011-11-21T16:59:52+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=372
+
+guid: https://www.tortorse.com/?p=372
 permalink: /archives/372
 categories:
   - 设计

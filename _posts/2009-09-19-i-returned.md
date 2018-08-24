@@ -4,8 +4,8 @@ title: 我又回来了
 date: 2009-09-19T09:12:22+00:00
 author: 愆伏
 excerpt: 服务器终于结束了一个月的被维护期，此间经历了几次与电信的沟通、重新备案等事务。不免让我想到“天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身……”。可，貌似我就一良民的技术博客啊。不管怎么样，终究还是恢复了——尽管PR和收录都差不多被清零了。
-layout: post
-guid: http://www.tortorse.com/archives/260
+
+guid: https://www.tortorse.com/archives/260
 permalink: /archives/260
 dsq_thread_id:
   - "3444277835"

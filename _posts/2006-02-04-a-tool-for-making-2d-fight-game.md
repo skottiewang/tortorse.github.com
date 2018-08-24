@@ -3,7 +3,7 @@ id: 11
 title: 2D格斗游戏制作大师2nd
 date: 2006-02-04T20:52:06+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/11
 dsq_thread_id:
   - "3444276679"
@@ -23,8 +23,8 @@ tags:
 
 相关信息
 
-- [官方主页](http://www.enterbrain.co.jp/digifami/)
-- [水箭龟009](http://www.chinasanyang.com/009blog)
-- [幻想森林](http://www.rpgchina.com/)
-- [MOD同盟社](http://bbs.modchina.com/index.asp?boardid=4)
+- [官方主页](https://www.enterbrain.co.jp/digifami/)
+- [水箭龟009](https://www.chinasanyang.com/009blog)
+- [幻想森林](https://www.rpgchina.com/)
+- [MOD同盟社](https://bbs.modchina.com/index.asp?boardid=4)
 

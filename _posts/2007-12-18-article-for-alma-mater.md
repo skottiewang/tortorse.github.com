@@ -3,7 +3,7 @@ id: 129
 title: 母校征文——一路上有你
 date: 2007-12-18T22:00:35+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/129
 categories:
   - 生活

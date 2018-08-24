@@ -3,7 +3,7 @@ id: 29
 title: 知识储备与杂志阅读
 date: 2006-02-26T10:48:01+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/29
 categories:
   - 生活

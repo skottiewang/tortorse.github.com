@@ -3,7 +3,7 @@ id: 27
 title: 先易后难，还是先难后易？
 date: 2006-02-24T12:46:01+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/27
 categories:
   - 技术

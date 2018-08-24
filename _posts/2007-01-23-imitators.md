@@ -3,7 +3,7 @@ id: 85
 title: 抄袭还是借鉴?——2大搜索引擎更新
 date: 2007-01-23T14:27:20+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/85
 categories:
   - 设计

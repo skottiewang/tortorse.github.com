@@ -3,7 +3,7 @@ id: 32
 title: 网站项目管理
 date: 2006-03-03T13:20:00+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/32
 categories:
   - 技术

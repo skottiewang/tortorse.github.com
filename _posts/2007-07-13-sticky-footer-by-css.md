@@ -3,7 +3,7 @@ id: 107
 title: CSS粘性底部
 date: 2007-07-13T21:51:10+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/107
 dsq_thread_id:
   - "3444278976"
@@ -13,7 +13,7 @@ tags:
   - 互联网
   - 前端
 ---
-原文： [A CSS sticky footer](http://ryanfait.com/sticky-footer/)
+原文： [A CSS sticky footer](https://ryanfait.com/sticky-footer/)
   
 作者：Ryan Fait
 

@@ -3,8 +3,8 @@ id: 169
 title: 项目管理就是博弈
 date: 2008-07-24T20:59:28+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/archives/169
+
+guid: https://www.tortorse.com/archives/169
 permalink: /archives/169
 dsq_thread_id:
   - "3444280959"
@@ -27,4 +27,4 @@ tags:
 
 问问看，市场会只看你的资历吗？市场会跟你讲情面吗？
 
-关于博弈在项目管理中的体现，推荐 [一篇文章](http://web.archive.org/web/20070527091120/http://ever2004.blogdriver.com:80/ever2004/258489.html)
+关于博弈在项目管理中的体现，推荐 [一篇文章](https://web.archive.org/web/20070527091120/https://ever2004.blogdriver.com:80/ever2004/258489.html)

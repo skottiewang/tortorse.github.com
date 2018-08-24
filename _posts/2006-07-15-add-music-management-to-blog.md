@@ -3,7 +3,7 @@ id: 60
 title: LBS^2音乐后台管理
 date: 2006-07-15T17:01:29+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/60
 categories:
   - 技术

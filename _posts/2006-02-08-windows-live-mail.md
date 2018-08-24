@@ -3,7 +3,7 @@ id: 17
 title: Windows Live Mail到手
 date: 2006-02-08T10:18:04+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/17
 categories:
   - 生活

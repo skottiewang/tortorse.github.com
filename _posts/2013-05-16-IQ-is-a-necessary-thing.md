@@ -3,8 +3,8 @@ id: 415
 title: 智商是硬伤就无解了
 date: 2013-05-16T14:52:46+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=415
+
+guid: https://www.tortorse.com/?p=415
 permalink: /archives/415
 dsq_thread_id:
   - "3444281549"

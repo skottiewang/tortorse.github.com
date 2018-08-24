@@ -3,7 +3,7 @@ id: 94
 title: 博文预报
 date: 2007-03-20T13:36:38+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/94
 categories:
   - 生活

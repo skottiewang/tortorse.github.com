@@ -1,5 +1,7 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+#gem 'jekyll-admin', group: :jekyll_plugins
 
-gem "jekyll", "~> 3.1"
-gem "jekyll-sitemap"
-gem "pygments.rb"
+group :jekyll_plugins do
+  gem 'algoliasearch-jekyll', '~> 0.4.3'
+end

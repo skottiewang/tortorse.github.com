@@ -3,8 +3,8 @@ id: 759
 title: 使用sublime text3和Markdown来写博客
 date: 2015-05-31T22:35:30+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=759
+
+guid: https://www.tortorse.com/?p=759
 permalink: /archives/759
 categories:
   - 技术

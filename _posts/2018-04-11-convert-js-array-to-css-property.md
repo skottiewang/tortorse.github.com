@@ -3,8 +3,8 @@ id: 910
 title: 数组转成字符串(css 属性)
 date: 2018-04-11T17:51:30+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=910
+
+guid: https://www.tortorse.com/?p=910
 permalink: /archives/910
 categories:
   - 技术

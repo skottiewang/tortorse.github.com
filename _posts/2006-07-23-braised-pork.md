@@ -3,7 +3,7 @@ id: 61
 title: 红烧小排
 date: 2006-07-23T23:04:41+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/61
 dsq_thread_id:
   - "3444280253"

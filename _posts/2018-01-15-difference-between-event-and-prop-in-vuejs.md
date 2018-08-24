@@ -3,8 +3,8 @@ id: 888
 title: Vue组件抛事件和Function prop的差别
 date: 2018-01-15T16:54:06+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=888
+
+guid: https://www.tortorse.com/?p=888
 permalink: /archives/888
 categories:
   - 技术

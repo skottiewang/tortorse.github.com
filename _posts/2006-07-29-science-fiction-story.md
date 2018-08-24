@@ -3,7 +3,7 @@ id: 63
 title: 星空强袭~游戏初始构思
 date: 2006-07-29T16:34:21+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/63
 categories:
   - 设计

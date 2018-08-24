@@ -3,7 +3,7 @@ id: 72
 title: 镇江方言
 date: 2006-09-06T20:07:23+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/72
 dsq_thread_id:
   - "3444279734"
@@ -15,7 +15,7 @@ tags:
 ---
 离开镇江已经1年多咯，近来和马、景在一起，都说的镇江方言。
   
-今天偶然在网上看到 [一篇文章](http://nichunyi.spaces.live.com/?_c11_blogpart_blogpart=blogview&_c=blogpart&partqs=amonth%3d7%26ayear%3d2006)，笑死我了，特此分享：
+今天偶然在网上看到 [一篇文章](https://nichunyi.spaces.live.com/?_c11_blogpart_blogpart=blogview&_c=blogpart&partqs=amonth%3d7%26ayear%3d2006)，笑死我了，特此分享：
   
 原来镇江话也是这么有特色的~
 
@@ -59,7 +59,7 @@ tags:
   
 - 我的事不用你管 叫 `你败烦我穷神！`
   
-又有一篇 [镇江话4级考试全真标准化试题](http://www.baidu.com/s?wd=%D5%F2%BD%AD%BB%B04%BC%B6%BF%BC%CA%D4%C8%AB%D5%E6%B1%EA%D7%BC%BB%AF%CA%D4%CC%E2&cl=3) 
+又有一篇 [镇江话4级考试全真标准化试题](https://www.baidu.com/s?wd=%D5%F2%BD%AD%BB%B04%BC%B6%BF%BC%CA%D4%C8%AB%D5%E6%B1%EA%D7%BC%BB%AF%CA%D4%CC%E2&cl=3) 
 
 我想到其他一些特色的如：`活砸业`、`来丝`、`结棍`、`杀铿`、`烙轴`、`歇耗`、`一塌括子`
   

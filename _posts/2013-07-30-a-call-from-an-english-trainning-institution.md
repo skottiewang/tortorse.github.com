@@ -3,8 +3,8 @@ id: 606
 title: 一个英语培训机构的外呼电话
 date: 2013-07-30T13:20:47+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=606
+
+guid: https://www.tortorse.com/?p=606
 permalink: /archives/606
 dsq_thread_id:
   - "3444281447"

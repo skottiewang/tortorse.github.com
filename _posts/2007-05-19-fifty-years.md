@@ -3,7 +3,7 @@ id: 102
 title: 人生五十年
 date: 2007-05-19T10:45:34+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/102
 categories:
   - 生活

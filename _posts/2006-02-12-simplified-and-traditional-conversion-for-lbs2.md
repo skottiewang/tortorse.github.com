@@ -3,7 +3,7 @@ id: 19
 title: LBS 简繁体转换
 date: 2006-02-12T16:07:14+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/19
 categories:
   - 技术

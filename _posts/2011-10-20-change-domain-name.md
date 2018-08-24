@@ -3,8 +3,8 @@ id: 363
 title: wordpress换域名
 date: 2011-10-20T22:37:08+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=363
+
+guid: https://www.tortorse.com/?p=363
 permalink: /archives/363
 categories:
   - 杂谈
@@ -19,7 +19,7 @@ tags:
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /log/
-  RewriteRule ^(.*) http://www.tortorse.com 1 [L,R=301,QSA]
+  RewriteRule ^(.*) https://www.tortorse.com 1 [L,R=301,QSA]
 </IfModule>
 ```
 

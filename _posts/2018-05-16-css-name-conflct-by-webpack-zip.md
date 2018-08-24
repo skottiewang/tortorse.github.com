@@ -3,8 +3,8 @@ id: 926
 title: 通过webpack对css压缩后所引起的重名问题
 date: 2018-05-16T15:10:54+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=926
+
+guid: https://www.tortorse.com/?p=926
 permalink: /archives/926
 categories:
   - 技术

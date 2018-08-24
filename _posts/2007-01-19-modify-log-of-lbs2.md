@@ -3,14 +3,14 @@ id: 83
 title: '给blog程序做调整——LBS修改笔记[持续更新]'
 date: 2007-01-19T21:53:25+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/83
 categories:
   - 技术
 tags:
   - 互联网
 ---
-有段时间没博了,弄的 [hubro](http://feed.hubro.net/) 把我给禁了
+有段时间没博了,弄的 [hubro](https://feed.hubro.net/) 把我给禁了
   
 ## 2007-11-10
   
@@ -26,7 +26,7 @@ tags:
   
 1. 文章日期、作者、评论显示
   
-2. 非首页不显示友情链接  <http://www.lbsky.cn/forum/thread-68-1-1.html>
+2. 非首页不显示友情链接  <https://www.lbsky.cn/forum/thread-68-1-1.html>
 
 ## 2006-01-19
   
@@ -50,7 +50,7 @@ tags:
   
 9. 压缩了数据库，由原来的 `5M` 压缩到现在的 `496k`( `access` 自带的压缩功能真猛！)
   
-10. 将“分类”及“文章”链接的url改成形如"?id=xx"，利于 `SEO` <http://www.awflasher.com/blog/archives/717>
+10. 将“分类”及“文章”链接的url改成形如"?id=xx"，利于 `SEO` <https://www.awflasher.com/blog/archives/717>
   
 11. 去除未注册的用户的链接
   

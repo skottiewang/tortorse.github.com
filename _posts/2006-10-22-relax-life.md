@@ -3,7 +3,7 @@ id: 75
 title: 给自己正常的生活
 date: 2006-10-22T10:46:25+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/75
 categories:
   - 生活

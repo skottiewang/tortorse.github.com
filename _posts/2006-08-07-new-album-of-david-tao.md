@@ -3,7 +3,7 @@ id: 69
 title: 陶喆新专辑《太美丽》
 date: 2006-08-07T10:43:57+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/69
 categories:
   - 生活
@@ -27,6 +27,6 @@ tags:
   
 不过为了对得起这个域名,怎么地也放点信息吧
   
-[官方宣传网站](http://www.davidtao.com/beautiful/)，做的满不错的
+[官方宣传网站](https://www.davidtao.com/beautiful/)，做的满不错的
   
 商业化啊。。。这就是商业化

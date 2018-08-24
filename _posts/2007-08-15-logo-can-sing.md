@@ -3,7 +3,7 @@ id: 114
 title: logo会唱歌
 date: 2007-08-15T21:08:14+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/114
 categories:
   - 设计

@@ -3,8 +3,8 @@ id: 151
 title: 一声叹息
 date: 2008-06-17T09:58:59+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/archives/151
+
+guid: https://www.tortorse.com/archives/151
 permalink: /archives/151
 dsq_thread_id:
   - "3444280874"

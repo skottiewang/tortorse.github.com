@@ -3,7 +3,7 @@ id: 49
 title: CSS之Expression，简单学习
 date: 2006-05-07T16:09:45+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/49
 aktt_notify_twitter:
   - 'no'

@@ -3,8 +3,8 @@ id: 195
 title: 超赞的视频广告——wario land shake
 date: 2008-09-28T13:53:17+00:00
 author: 愆伏
-layout: post
-guid: http://www.tortorse.com/?p=195
+
+guid: https://www.tortorse.com/?p=195
 permalink: /archives/195
 dsq_thread_id:
   - "3444281237"
