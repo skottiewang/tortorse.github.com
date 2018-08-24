@@ -52,7 +52,7 @@ replace: <symbol id="$1"[空格]
 > `[空格]`为实际空格
 
 执行结果
-```html
+```svg
 <symbol id="check"viewBox="0 0 44 44"><path fill-rule="evenodd" d="M34.538 8L38 11.518 17.808 32 8 22.033l3.462-3.518 6.346 6.45z"/></symbol>'
 ```
 
@@ -65,7 +65,7 @@ replace: symbol>
 ```
 
 执行结果
-```html
+```svg
 <symbol id="check" viewBox="0 0 44 44"><path fill-rule="evenodd" d="M34.538 8L38 11.518 17.808 32 8 22.033l3.462-3.518 6.346 6.45z"/></symbol>
 ```
 
