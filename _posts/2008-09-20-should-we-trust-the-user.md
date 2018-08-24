@@ -3,7 +3,7 @@ id: 192
 title: 该相信用户的话吗？
 date: 2008-09-20T10:11:47+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=192
 permalink: /archives/192
 dsq_thread_id:

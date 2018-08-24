@@ -3,7 +3,7 @@ id: 136
 title: 尼斯湖怪-冷笑话
 date: 2008-03-17T01:15:59+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/136
 categories:
   - 故事

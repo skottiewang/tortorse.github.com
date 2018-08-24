@@ -3,7 +3,7 @@ id: 144
 title: 尽我们所能帮助灾区,希望灾民平安度过难关
 date: 2008-05-14T09:32:10+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/144
 categories:
   - 生活

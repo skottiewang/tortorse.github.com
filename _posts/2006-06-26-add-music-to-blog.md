@@ -3,7 +3,7 @@ id: 57
 title: 给LBS^2添加flash音乐播放器
 date: 2006-06-26T11:50:56+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/57
 categories:
   - 技术

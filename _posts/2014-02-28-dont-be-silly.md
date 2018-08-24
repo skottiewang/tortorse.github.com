@@ -3,7 +3,7 @@ id: 636
 title: 拒绝SB思维
 date: 2014-02-28T16:51:59+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=636
 permalink: /archives/636
 dsq_thread_id:

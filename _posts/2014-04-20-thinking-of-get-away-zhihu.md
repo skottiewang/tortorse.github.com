@@ -3,7 +3,7 @@ id: 701
 title: 对知乎大号怒撤事件的一点看法
 date: 2014-04-20T09:43:03+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=701
 permalink: /archives/701
 dsq_thread_id:

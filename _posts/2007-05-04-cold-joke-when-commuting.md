@@ -3,7 +3,7 @@ id: 99
 title: '它西&#038;迷你'
 date: 2007-05-04T21:04:07+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/99
 categories:
   - 故事

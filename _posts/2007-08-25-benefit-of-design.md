@@ -3,7 +3,7 @@ id: 116
 title: 设计有益
 date: 2007-08-25T18:12:29+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/116
 categories:
   - 设计

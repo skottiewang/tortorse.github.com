@@ -3,7 +3,7 @@ id: 46
 title: 唉，人生如梦。
 date: 2006-04-23T16:44:13+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/46
 categories:
   - 生活

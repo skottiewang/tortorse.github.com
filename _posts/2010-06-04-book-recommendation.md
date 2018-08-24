@@ -3,7 +3,7 @@ id: 339
 title: 《玩赚你的网站》是本难得的好书
 date: 2010-06-04T21:46:52+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/339
 permalink: /archives/339
 dsq_thread_id:

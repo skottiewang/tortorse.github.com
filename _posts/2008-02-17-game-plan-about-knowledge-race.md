@@ -3,7 +3,7 @@ id: 135
 title: 休闲游戏策划草案——中华学府
 date: 2008-02-17T15:40:54+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/135
 categories:
   - 设计

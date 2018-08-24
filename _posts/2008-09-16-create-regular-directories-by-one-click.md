@@ -3,7 +3,7 @@ id: 190
 title: 一键创建规范的工作目录
 date: 2008-09-16T17:54:30+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/190
 permalink: /archives/190
 dsq_thread_id:

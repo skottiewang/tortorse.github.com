@@ -3,7 +3,7 @@ id: 324
 title: wordpress主题发布:iCake 1.0
 date: 2010-01-21T18:11:35+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=324
 permalink: /archives/324
 dsq_thread_id:

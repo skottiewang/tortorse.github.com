@@ -3,7 +3,7 @@ id: 155
 title: 拿来主义
 date: 2008-06-27T10:18:08+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/155
 permalink: /archives/155
 dsq_thread_id:

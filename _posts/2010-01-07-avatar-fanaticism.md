@@ -3,7 +3,7 @@ id: 306
 title: 凶猛的阿凡达
 date: 2010-01-07T20:36:05+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/306
 permalink: /archives/306
 dsq_thread_id:

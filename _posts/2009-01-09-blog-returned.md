@@ -3,7 +3,7 @@ id: 208
 title: 终于回来了
 date: 2009-01-09T17:21:55+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/208
 permalink: /archives/208
 categories:

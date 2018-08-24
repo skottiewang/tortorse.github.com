@@ -3,7 +3,7 @@ id: 709
 title: 不专业呢，就别捣乱
 date: 2014-04-24T16:52:58+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=709
 permalink: /archives/709
 dsq_thread_id:

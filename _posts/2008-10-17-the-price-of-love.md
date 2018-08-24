@@ -3,7 +3,7 @@ id: 199
 title: 溺爱的代价
 date: 2008-10-17T09:14:51+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/199
 permalink: /archives/199
 categories:

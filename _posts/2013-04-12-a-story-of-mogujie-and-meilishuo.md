@@ -3,7 +3,7 @@ id: 411
 title: 美丽说、蘑菇街今天一定开了好几个小时的会
 date: 2013-04-12T18:07:31+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=411
 permalink: /archives/411
 categories:

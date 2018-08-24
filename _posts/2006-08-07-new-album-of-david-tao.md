@@ -3,7 +3,7 @@ id: 69
 title: 陶喆新专辑《太美丽》
 date: 2006-08-07T10:43:57+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/69
 categories:
   - 生活

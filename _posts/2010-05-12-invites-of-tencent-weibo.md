@@ -3,7 +3,7 @@ id: 338
 title: 腾讯微博邀请，欢迎自取
 date: 2010-05-12T13:57:14+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/338
 permalink: /archives/338
 dsq_thread_id:

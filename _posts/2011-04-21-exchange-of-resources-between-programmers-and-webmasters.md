@@ -3,7 +3,7 @@ id: 358
 title: 程序员和站长之间资源的交换
 date: 2011-04-21T18:05:41+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=358
 permalink: /archives/358
 categories:

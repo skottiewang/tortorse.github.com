@@ -3,7 +3,7 @@ id: 378
 title: 用css3画一坨屎
 date: 2011-12-22T17:43:50+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=378
 permalink: /archives/378
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 319
 title: 杯具掉的手作软陶皮卡丘
 date: 2010-01-10T15:22:28+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/319
 permalink: /archives/319
 dsq_thread_id:

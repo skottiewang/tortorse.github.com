@@ -3,7 +3,7 @@ id: 142
 title: 游高崇寺
 date: 2008-05-05T20:39:02+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/142
 categories:
   - 生活

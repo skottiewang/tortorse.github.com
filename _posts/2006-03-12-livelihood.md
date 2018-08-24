@@ -3,7 +3,7 @@ id: 35
 title: 写点生活吧
 date: 2006-03-12T15:51:27+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/35
 categories:
   - 生活

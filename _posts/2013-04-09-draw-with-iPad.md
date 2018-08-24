@@ -3,7 +3,7 @@ id: 403
 title: iPad作画
 date: 2013-04-09T20:27:55+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/403
 permalink: /archives/403
 dsq_thread_id:

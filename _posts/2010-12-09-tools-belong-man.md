@@ -3,7 +3,7 @@ id: 352
 title: 男人是得有点装备的
 date: 2010-12-09T20:26:57+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/352
 permalink: /archives/352
 dsq_thread_id:

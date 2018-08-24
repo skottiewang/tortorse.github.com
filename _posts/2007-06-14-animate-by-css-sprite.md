@@ -3,7 +3,7 @@ id: 104
 title: 揣测google韩国首页动画效果
 date: 2007-06-14T22:41:02+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/104
 categories:
   - 技术

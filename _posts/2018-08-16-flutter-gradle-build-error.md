@@ -3,7 +3,7 @@ id: 973
 title: 'flutter 踩坑: gradle build 报错'
 date: 2018-08-16T09:29:32+00:00
 author: 愆伏
-layout: post
+
 guid: https://www.tortorse.com/?p=973
 permalink: /archives/973
 categories:

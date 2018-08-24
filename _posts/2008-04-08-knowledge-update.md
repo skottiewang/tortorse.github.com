@@ -3,7 +3,7 @@ id: 139
 title: “知”的提升
 date: 2008-04-08T11:28:25+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/139
 categories:
   - 生活

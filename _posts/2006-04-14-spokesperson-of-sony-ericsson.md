@@ -3,7 +3,7 @@ id: 45
 title: 天仙MM代言索爱
 date: 2006-04-14T23:40:30+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/45
 categories:
   - 生活

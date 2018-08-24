@@ -3,7 +3,7 @@ id: 133
 title: 手机游戏策划草案《食神》
 date: 2008-01-22T20:43:21+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/133
 dsq_thread_id:
   - "3444280813"

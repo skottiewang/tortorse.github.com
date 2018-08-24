@@ -3,7 +3,7 @@ id: 969
 title: flutter踩坑:开启Android模拟器
 date: 2018-08-13T15:54:46+00:00
 author: 愆伏
-layout: post
+
 guid: https://www.tortorse.com/?p=969
 permalink: /archives/969
 categories:

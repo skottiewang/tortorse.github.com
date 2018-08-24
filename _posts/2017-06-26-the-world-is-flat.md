@@ -3,7 +3,7 @@ id: 846
 title: 世界是平的，在科学上网之后
 date: 2017-06-26T14:48:57+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=846
 permalink: /archives/846
 categories:

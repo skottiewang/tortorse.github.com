@@ -3,7 +3,7 @@ id: 9
 title: 百度的LOGO
 date: 2006-01-29T15:56:25+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/9
 dsq_thread_id:
   - "3444276622"

@@ -3,7 +3,7 @@ id: 217
 title: 小情调
 date: 2009-02-23T22:34:30+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/217
 permalink: /archives/217
 dsq_thread_id:

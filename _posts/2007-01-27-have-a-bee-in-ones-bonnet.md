@@ -3,7 +3,7 @@ id: 86
 title: 恍惚
 date: 2007-01-27T00:51:21+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/86
 categories:
   - 生活

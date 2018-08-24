@@ -3,7 +3,7 @@ id: 609
 title: 你居然都不用微信
 date: 2013-08-05T16:59:30+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=609
 permalink: /archives/609
 dsq_thread_id:

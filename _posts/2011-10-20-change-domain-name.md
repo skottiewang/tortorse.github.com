@@ -3,7 +3,7 @@ id: 363
 title: wordpress换域名
 date: 2011-10-20T22:37:08+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=363
 permalink: /archives/363
 categories:

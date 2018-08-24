@@ -3,7 +3,7 @@ id: 53
 title: 2006年上半年总结
 date: 2006-06-06T09:16:07+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/53
 categories:
   - 生活

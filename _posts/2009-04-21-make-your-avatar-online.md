@@ -4,7 +4,7 @@ title: 在线生成卡通头像
 date: 2009-04-21T21:56:05+00:00
 author: 愆伏
 excerpt: 在某些论坛上经常看到这样的头像，一直不知道是谁画的，今天发现原来有这么一个在线生成卡通头像的服务——FaceYourManga。Manga这个词应该是日文英译，漫画的意思（英文一般叫做Comic）。
-layout: post
+
 guid: http://www.tortorse.com/archives/237
 permalink: /archives/237
 dsq_thread_id:

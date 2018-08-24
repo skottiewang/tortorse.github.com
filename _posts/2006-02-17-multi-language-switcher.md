@@ -3,7 +3,7 @@ id: 22
 title: 双语blog,如此简单?
 date: 2006-02-17T16:25:53+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/22
 categories:
   - 技术

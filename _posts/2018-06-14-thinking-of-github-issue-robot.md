@@ -3,7 +3,7 @@ id: 943
 title: Github Issue Robot 思路
 date: 2018-06-14T09:10:31+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=943
 permalink: /archives/943
 categories:

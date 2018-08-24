@@ -3,7 +3,7 @@ id: 410
 title: 个人独立博客会死掉吗？
 date: 2013-04-12T17:24:19+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=410
 permalink: /archives/410
 dsq_thread_id:

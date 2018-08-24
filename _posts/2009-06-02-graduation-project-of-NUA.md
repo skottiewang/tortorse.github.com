@@ -4,7 +4,7 @@ title: 2009上半年南艺艺术设计自考毕业设计
 date: 2009-06-02T23:05:20+00:00
 author: 愆伏
 excerpt: 我挺喜欢自考这种方式，不用上课，自己看看书，到时间交个考试费就直接冲去考试。生死有命，富贵在天。自收自支，怨不得别人。熬了3年，终于熬到了考这最后一门。
-layout: post
+
 guid: http://www.tortorse.com/archives/255
 permalink: /archives/255
 dsq_thread_id:

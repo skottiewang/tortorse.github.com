@@ -3,7 +3,7 @@ id: 322
 title: 舍身成仁，舍己为人
 date: 2010-01-15T11:18:53+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/322
 permalink: /archives/322
 dsq_thread_id:

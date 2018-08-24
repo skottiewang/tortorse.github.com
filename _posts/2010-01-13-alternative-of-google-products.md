@@ -3,7 +3,7 @@ id: 320
 title: 欲练神功，挥刀自宫——在没有google之后
 date: 2010-01-13T16:37:02+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=320
 permalink: /archives/320
 dsq_thread_id:

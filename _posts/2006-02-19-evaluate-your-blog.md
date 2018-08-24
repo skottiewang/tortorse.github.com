@@ -3,7 +3,7 @@ id: 25
 title: 你的blog价值几何？
 date: 2006-02-19T11:47:40+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/25
 categories:
   - 生活

@@ -3,7 +3,7 @@ id: 7
 title: LBS在线背单词功能
 date: 2006-01-24T13:36:54+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/7
 categories:
   - 技术

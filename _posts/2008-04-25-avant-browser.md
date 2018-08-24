@@ -3,7 +3,7 @@ id: 141
 title: Avant Browser的复兴
 date: 2008-04-25T10:27:54+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/141
 categories:
   - 故事

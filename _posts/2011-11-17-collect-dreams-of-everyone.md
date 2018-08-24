@@ -3,7 +3,7 @@ id: 370
 title: 如果能够收集到世界上所有人的梦
 date: 2011-11-17T14:03:47+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=370
 permalink: /archives/370
 dsq_thread_id:

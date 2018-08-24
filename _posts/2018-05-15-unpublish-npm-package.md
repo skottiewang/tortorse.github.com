@@ -3,7 +3,7 @@ id: 921
 title: NPM 撤回已发布的版本
 date: 2018-05-15T11:59:18+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=921
 permalink: /archives/921
 categories:

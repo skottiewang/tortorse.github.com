@@ -4,7 +4,7 @@ title: google calendar的另类用法
 date: 2009-03-16T21:28:43+00:00
 author: 愆伏
 excerpt: 我一直是把calendar变相的作为todolist来用的，这种用法我自己觉得很邪门，给别人看的时候别人也觉得挺邪乎。但在团队里普及的还算不错，大家都开始这么汇报和记录工作了。
-layout: post
+
 guid: http://www.tortorse.com/archives/226
 permalink: /archives/226
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 206
 title: 还不都为了大客户
 date: 2008-11-20T10:06:53+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/206
 permalink: /archives/206
 dsq_thread_id:

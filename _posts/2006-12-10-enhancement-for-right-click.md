@@ -3,7 +3,7 @@ id: 80
 title: 给鼠标右键增加新建HTML、CSS文件功能
 date: 2006-12-10T00:40:29+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/80
 dsq_thread_id:
   - "3444278787"

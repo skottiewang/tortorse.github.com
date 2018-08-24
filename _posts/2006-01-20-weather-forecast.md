@@ -3,7 +3,7 @@ id: 6
 title: LBS的天气预报功能
 date: 2006-01-20T17:52:02+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/6
 categories:
   - 技术

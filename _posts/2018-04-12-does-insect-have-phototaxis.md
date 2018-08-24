@@ -3,7 +3,7 @@ id: 912
 title: 昆虫有趋光性吗
 date: 2018-04-12T08:15:53+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=912
 permalink: /archives/912
 categories:
@@ -11,7 +11,7 @@ categories:
 tags:
   - 昆虫
 ---
-<## 概念解释
+## 概念解释
 
 ### 1. 向光性
 

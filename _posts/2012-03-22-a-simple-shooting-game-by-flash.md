@@ -3,7 +3,7 @@ id: 386
 title: 一个简单的flash射击游戏
 date: 2012-03-22T13:42:10+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=386
 permalink: /archives/386
 dsq_thread_id:

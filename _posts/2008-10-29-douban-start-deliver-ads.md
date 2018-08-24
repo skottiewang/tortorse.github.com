@@ -3,7 +3,7 @@ id: 204
 title: 豆瓣盈利能力堪忧？
 date: 2008-10-29T13:29:08+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/204
 permalink: /archives/204
 categories:

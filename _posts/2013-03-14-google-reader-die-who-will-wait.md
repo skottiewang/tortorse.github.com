@@ -3,7 +3,7 @@ id: 400
 title: google reader即将关闭，谁来候补？
 date: 2013-03-14T10:45:55+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=400
 permalink: /archives/400
 dsq_thread_id:

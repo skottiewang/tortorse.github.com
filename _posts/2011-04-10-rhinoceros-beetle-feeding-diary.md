@@ -3,7 +3,7 @@ id: 355
 title: 独角仙饲育日记1
 date: 2011-04-10T20:45:50+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=355
 permalink: /archives/355
 dsq_thread_id:

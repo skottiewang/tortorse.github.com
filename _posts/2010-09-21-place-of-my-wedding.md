@@ -3,7 +3,7 @@ id: 344
 title: 镇江火车站、新汽车站到香逸渔港大酒店路线
 date: 2010-09-21T17:55:22+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=344
 permalink: /archives/344
 dsq_thread_id:

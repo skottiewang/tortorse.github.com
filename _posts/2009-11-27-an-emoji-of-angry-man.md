@@ -10,7 +10,7 @@ excerpt: |
   3. 愤怒摔石图
   前2个好理解，要说到这“愤怒摔石图”是啥玩意儿，估计很多人都不知道。因为这是zhanghua同学给起的名字。
   “愤怒摔石图”起源于员工QQ群里的这张猫摔鱼的表情
-layout: post
+
 guid: http://www.tortorse.com/?p=276
 permalink: /archives/276
 dsq_thread_id:

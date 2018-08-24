@@ -3,7 +3,7 @@ id: 2
 title: blog程序更换为LBS^2
 date: 2006-01-19T19:26:22+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/2
 categories:
   - 技术

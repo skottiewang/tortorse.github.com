@@ -3,7 +3,7 @@ id: 198
 title: 开心不开心？
 date: 2008-10-16T09:22:45+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/198
 permalink: /archives/198
 dsq_thread_id:

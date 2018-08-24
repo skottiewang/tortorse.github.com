@@ -3,7 +3,7 @@ id: 70
 title: 咸肉竹笋汤
 date: 2006-09-01T21:01:09+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/70
 dsq_thread_id:
   - "3444278650"

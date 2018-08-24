@@ -3,7 +3,7 @@ id: 8
 title: 南京长途车站
 date: 2006-01-27T22:15:58+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/8
 categories:
   - 故事

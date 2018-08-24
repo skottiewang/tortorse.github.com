@@ -3,7 +3,7 @@ id: 81
 title: 个人计算机防病毒十大规则
 date: 2007-01-13T00:00:46+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/81
 categories:
   - 技术

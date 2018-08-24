@@ -3,7 +3,7 @@ id: 50
 title: 蓝色理想-经典论坛 开“用户体验综合版”
 date: 2006-05-12T21:30:38+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/50
 categories:
   - 生活

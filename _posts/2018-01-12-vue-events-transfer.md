@@ -3,7 +3,7 @@ id: 885
 title: Vue 事件参数传递
 date: 2018-01-12T09:23:17+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=885
 permalink: /archives/885
 categories:

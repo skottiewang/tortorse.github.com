@@ -3,7 +3,7 @@ id: 73
 title: 微软三剑客？
 date: 2006-09-09T00:17:13+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/73
 categories:
   - 生活

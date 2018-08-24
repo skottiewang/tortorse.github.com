@@ -3,7 +3,7 @@ id: 95
 title: 高考凶猛,果然凶猛
 date: 2007-04-01T10:26:15+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/95
 categories:
   - 生活

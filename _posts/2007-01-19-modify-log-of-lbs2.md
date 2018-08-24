@@ -3,7 +3,7 @@ id: 83
 title: '给blog程序做调整——LBS修改笔记[持续更新]'
 date: 2007-01-19T21:53:25+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/83
 categories:
   - 技术

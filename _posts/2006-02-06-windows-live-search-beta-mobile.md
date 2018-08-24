@@ -3,7 +3,7 @@ id: 15
 title: Windows Live Search beta – mobile
 date: 2006-02-06T12:55:31+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/15
 categories:
   - 生活

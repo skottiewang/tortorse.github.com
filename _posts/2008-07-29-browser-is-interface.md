@@ -3,7 +3,7 @@ id: 179
 title: '浏览器:web世界之门'
 date: 2008-07-29T22:16:17+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/179
 permalink: /archives/179
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 92
 title: 有待开化
 date: 2007-02-18T20:17:13+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/92
 categories:
   - 故事

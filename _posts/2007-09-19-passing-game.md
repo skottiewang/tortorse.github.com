@@ -3,7 +3,7 @@ id: 120
 title: 被人点名。。。博客病毒阿
 date: 2007-09-19T10:56:53+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/120
 categories:
   - 生活

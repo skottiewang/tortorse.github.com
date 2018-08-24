@@ -3,7 +3,7 @@ id: 146
 title: LBS^2转到wordpress2.5
 date: 2008-05-27T00:17:44+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/146
 permalink: /archives/146
 dsq_thread_id:

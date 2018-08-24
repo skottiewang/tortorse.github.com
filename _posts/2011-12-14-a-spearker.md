@@ -3,7 +3,7 @@ id: 375
 title: 一只音箱——漫步者M0pro
 date: 2011-12-14T11:38:45+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=375
 permalink: /archives/375
 dsq_thread_id:

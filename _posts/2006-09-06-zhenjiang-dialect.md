@@ -3,7 +3,7 @@ id: 72
 title: 镇江方言
 date: 2006-09-06T20:07:23+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/72
 dsq_thread_id:
   - "3444279734"

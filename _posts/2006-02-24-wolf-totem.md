@@ -3,7 +3,7 @@ id: 26
 title: 狼图腾——惟论两性？
 date: 2006-02-24T12:42:42+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/26
 categories:
   - 生活

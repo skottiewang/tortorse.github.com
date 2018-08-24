@@ -3,7 +3,7 @@ id: 976
 title: Jekyll Serve 运行出错
 date: 2018-08-17T13:21:20+00:00
 author: 愆伏
-layout: post
+
 guid: https://www.tortorse.com/?p=976
 permalink: /archives/976
 categories:

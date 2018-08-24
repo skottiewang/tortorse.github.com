@@ -3,7 +3,7 @@ id: 87
 title: 替换LBS站内搜索为google/baidu引擎
 date: 2007-02-03T10:10:58+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/87
 categories:
   - 技术

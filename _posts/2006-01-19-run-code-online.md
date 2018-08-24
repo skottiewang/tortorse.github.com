@@ -3,7 +3,7 @@ id: 5
 title: LBS在线运行代码功能
 date: 2006-01-19T19:56:08+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/5
 categories:
   - 技术

@@ -3,7 +3,7 @@ id: 932
 title: vue feedback 指令开发
 date: 2018-05-21T11:48:47+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=932
 permalink: /archives/932
 categories:

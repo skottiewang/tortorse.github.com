@@ -3,7 +3,7 @@ id: 115
 title: 正义的叔叔
 date: 2007-08-22T12:29:45+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/115
 dsq_thread_id:
   - "3444279964"

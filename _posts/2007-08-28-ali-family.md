@@ -3,7 +3,7 @@ id: 117
 title: 阿里后爸？后妈？家族？
 date: 2007-08-28T14:16:34+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/117
 dsq_thread_id:
   - "3695614233"

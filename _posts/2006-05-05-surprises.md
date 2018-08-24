@@ -3,7 +3,7 @@ id: 47
 title: 惊喜，惊喜，特大惊喜！
 date: 2006-05-05T18:23:39+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/47
 categories:
   - 故事

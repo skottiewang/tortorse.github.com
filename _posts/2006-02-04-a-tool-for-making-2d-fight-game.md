@@ -3,7 +3,7 @@ id: 11
 title: 2D格斗游戏制作大师2nd
 date: 2006-02-04T20:52:06+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/11
 dsq_thread_id:
   - "3444276679"

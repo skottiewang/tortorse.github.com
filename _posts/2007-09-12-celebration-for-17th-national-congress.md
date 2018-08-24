@@ -3,7 +3,7 @@ id: 118
 title: 预祝十七大圆满召开
 date: 2007-09-12T10:38:19+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/118
 categories:
   - 生活

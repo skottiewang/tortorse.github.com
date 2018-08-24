@@ -3,7 +3,7 @@ id: 16
 title: 测试题目自己出
 date: 2006-02-06T22:06:27+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/16
 categories:
   - 生活

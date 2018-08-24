@@ -3,7 +3,7 @@ id: 90
 title: 落叶归根，谁说是喜剧？
 date: 2007-02-05T20:46:27+00:00
 author: 愆伏
-layout: post
+
 permalink: /archives/90
 categories:
   - 生活

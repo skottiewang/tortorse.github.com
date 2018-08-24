@@ -3,7 +3,7 @@ id: 169
 title: 项目管理就是博弈
 date: 2008-07-24T20:59:28+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/archives/169
 permalink: /archives/169
 dsq_thread_id:

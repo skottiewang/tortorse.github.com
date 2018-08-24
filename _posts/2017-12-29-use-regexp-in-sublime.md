@@ -3,7 +3,7 @@ id: 876
 title: 使用sublime中的正则处理数据格式
 date: 2017-12-29T13:47:05+00:00
 author: 愆伏
-layout: post
+
 guid: http://www.tortorse.com/?p=876
 permalink: /archives/876
 categories:

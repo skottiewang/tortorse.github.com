@@ -3,7 +3,7 @@ id: 965
 title: 升级博客到HTTPS
 date: 2018-08-13T13:38:24+00:00
 author: 愆伏
-layout: post
+
 guid: https://www.tortorse.com/?p=965
 permalink: /archives/965
 categories:
