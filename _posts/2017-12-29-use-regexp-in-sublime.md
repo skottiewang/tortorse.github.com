@@ -9,7 +9,7 @@ permalink: /archives/876
 categories:
   - 杂谈
 ---
-具体的正则匹配规则请看[正则表达式30分钟入门教程](https://deerchao.net/tutorials/regex/regex.htm#mission)
+具体的正则匹配规则请看 [正则表达式30分钟入门教程](https://deerchao.net/tutorials/regex/regex.htm#mission)
 
 ## 源数据
 
@@ -52,7 +52,8 @@ replace: <symbol id="$1"[空格]
 > `[空格]`为实际空格
 
 执行结果
-```svg
+
+```html
 <symbol id="check"viewBox="0 0 44 44"><path fill-rule="evenodd" d="M34.538 8L38 11.518 17.808 32 8 22.033l3.462-3.518 6.346 6.45z"/></symbol>'
 ```
 
@@ -65,7 +66,8 @@ replace: symbol>
 ```
 
 执行结果
-```svg
+
+```html
 <symbol id="check" viewBox="0 0 44 44"><path fill-rule="evenodd" d="M34.538 8L38 11.518 17.808 32 8 22.033l3.462-3.518 6.346 6.45z"/></symbol>
 ```
 
