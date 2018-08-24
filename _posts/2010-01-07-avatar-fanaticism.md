@@ -4,7 +4,7 @@ title: 凶猛的阿凡达
 date: 2010-01-07T20:36:05+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/306
+guid: https://www.tortorse.com/archives/306
 permalink: /archives/306
 dsq_thread_id:
   - "3444278121"

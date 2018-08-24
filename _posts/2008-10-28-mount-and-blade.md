@@ -4,7 +4,7 @@ title: '骑马与砍杀(mount&amp;blade)&mdash;&mdash;另类的爽快'
 date: 2008-10-28T23:27:39+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/202
+guid: https://www.tortorse.com/archives/202
 permalink: /archives/202
 dsq_thread_id:
   - "3444277570"

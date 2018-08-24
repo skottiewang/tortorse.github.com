@@ -4,7 +4,7 @@ title: 世界是平的，在科学上网之后
 date: 2017-06-26T14:48:57+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=846
+guid: https://www.tortorse.com/?p=846
 permalink: /archives/846
 categories:
   - 杂谈
@@ -24,7 +24,7 @@ categories:
 
 ## 科学上网
 掌握了某种不可描述的方法后，你便可得见更大的世界。
-这个世界可以让你在网上便可以参加世界著名大学的课程，比如[Coursera](http://coursera.com/)
+这个世界可以让你在网上便可以参加世界著名大学的课程，比如[Coursera](https://coursera.com/)
 这个世界可以让你了解任何你想要了解的东西，比如[如何去修垃圾处理器](https://www.youtube.com/watch?v=J0OByRuoYM0)
 这个世界还提供了各种创造力[Kickstarter](https://www.kickstarter.com/)
 这个世界还让你能够获得更多的思想[TED](https://www.ted.com/)

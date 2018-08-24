@@ -13,7 +13,7 @@ tags:
   - 互联网
   - 前端
 ---
-原文： [A CSS sticky footer](http://ryanfait.com/sticky-footer/)
+原文： [A CSS sticky footer](https://ryanfait.com/sticky-footer/)
   
 作者：Ryan Fait
 

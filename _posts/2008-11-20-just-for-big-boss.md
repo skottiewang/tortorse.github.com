@@ -4,7 +4,7 @@ title: 还不都为了大客户
 date: 2008-11-20T10:06:53+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/206
+guid: https://www.tortorse.com/archives/206
 permalink: /archives/206
 dsq_thread_id:
   - "3444277607"

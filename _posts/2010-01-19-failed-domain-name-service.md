@@ -4,7 +4,7 @@ title: 脆弱的域名服务
 date: 2010-01-19T22:00:08+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/323
+guid: https://www.tortorse.com/archives/323
 permalink: /archives/323
 dsq_thread_id:
   - "3444279274"

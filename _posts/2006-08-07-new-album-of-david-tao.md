@@ -27,6 +27,6 @@ tags:
   
 不过为了对得起这个域名,怎么地也放点信息吧
   
-[官方宣传网站](http://www.davidtao.com/beautiful/)，做的满不错的
+[官方宣传网站](https://www.davidtao.com/beautiful/)，做的满不错的
   
 商业化啊。。。这就是商业化

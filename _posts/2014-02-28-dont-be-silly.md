@@ -4,7 +4,7 @@ title: 拒绝SB思维
 date: 2014-02-28T16:51:59+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=636
+guid: https://www.tortorse.com/?p=636
 permalink: /archives/636
 dsq_thread_id:
   - "3444399090"
@@ -13,7 +13,7 @@ categories:
 tags:
   - 产品
 ---
-今天偶然间看到了 [一个东西](http://rs.ci123.com/widget/item_7.html)，当然 [这里也有](http://app.yaolan.com/tool_taier/)，[还有这儿](http://www.iyaya.com/1/gongju/2/)。这里面有张表，直接贴过来如下：
+今天偶然间看到了 [一个东西](https://rs.ci123.com/widget/item_7.html)，当然 [这里也有](https://app.yaolan.com/tool_taier/)，[还有这儿](https://www.iyaya.com/1/gongju/2/)。这里面有张表，直接贴过来如下：
 
 胎儿B超正常参数值
 | 孕周 | 双顶径(平均值)cm | 腹围(平均值)cm | 股骨长(平均值)cm |

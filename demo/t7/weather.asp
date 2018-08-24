@@ -5,7 +5,7 @@ Response.contentType="application/xml"
 Response.Expires = 0
 var N=Request("n")
 var Num=Request("id")
-var url="http://xml.weather.yahoo.com/forecastrss?p="+N+"&u=c&id="+Num;
+var url="https://xml.weather.yahoo.com/forecastrss?p="+N+"&u=c&id="+Num;
 var xmldoc=Server.CreateObject("Microsoft.Xmlhttp");
 xmldoc.open('GET',url,false);
 xmldoc.send(null);

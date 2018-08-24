@@ -4,7 +4,7 @@ title: 终于回来了
 date: 2009-01-09T17:21:55+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/208
+guid: https://www.tortorse.com/archives/208
 permalink: /archives/208
 categories:
   - 技术
@@ -12,7 +12,7 @@ tags:
   - 生活
   - wordpress
 ---
-服务器放在 [皮皮鲁](http://www.cnaspx.cn) 那儿，前段时间 `IP` 被攻击直至近日才得以恢复。
+服务器放在 [皮皮鲁](https://www.cnaspx.cn) 那儿，前段时间 `IP` 被攻击直至近日才得以恢复。
 
 PR降到了 `3`，`alexa` 到了 `480581`。虽说这些数字对我来说没有什么意义，但作为互联网从业人员还是应该得到些教训。
 

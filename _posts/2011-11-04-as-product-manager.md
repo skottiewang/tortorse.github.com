@@ -4,7 +4,7 @@ title: 作为一名产品经理
 date: 2011-11-04T20:31:12+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=365
+guid: https://www.tortorse.com/?p=365
 permalink: /archives/365
 dsq_thread_id:
   - "3444279442"

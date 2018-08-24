@@ -15,11 +15,11 @@ tags:
 
 给几个现成的地址：
 
-http://weather.news.qq.com/inc/ss244.htm
+https://weather.news.qq.com/inc/ss244.htm
 
 > qq的，界面大但功能全
 
-http://weather.265.com/weather.htm
+https://weather.265.com/weather.htm
 > 这个是根据IP显示地方的
 
 ## 另外一种就是利用xmlhttp了从别的网站上扒了。

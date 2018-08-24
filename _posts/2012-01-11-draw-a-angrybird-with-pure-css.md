@@ -4,7 +4,7 @@ title: Draw an angry bird with pure CSS
 date: 2012-01-11T16:00:08+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=381
+guid: https://www.tortorse.com/?p=381
 permalink: /archives/381
 dsq_thread_id:
   - "3444277468"

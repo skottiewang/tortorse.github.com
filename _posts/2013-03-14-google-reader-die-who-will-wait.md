@@ -4,7 +4,7 @@ title: google reader即将关闭，谁来候补？
 date: 2013-03-14T10:45:55+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=400
+guid: https://www.tortorse.com/?p=400
 permalink: /archives/400
 dsq_thread_id:
   - "3444277486"
@@ -26,7 +26,7 @@ tags:
 
 ~~唯一的例外应该是 `Amazon`。苦心孤诣好多年，终于磨死了一个搅局的。~~
 
-BTW：关闭不关闭和普通用户关系不大，国人用google reader的又有几人？如果你还想试图挽留，那可以 [去这个网站留言](http://keepgooglereader.com)
+BTW：关闭不关闭和普通用户关系不大，国人用google reader的又有几人？如果你还想试图挽留，那可以 [去这个网站留言](https://keepgooglereader.com)
 
 说来惭愧，查了一下自己的阅读记录发现如下：
 

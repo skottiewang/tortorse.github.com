@@ -4,7 +4,7 @@ title: 嘀嘀与快的的商业博弈
 date: 2014-02-18T12:47:23+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=630
+guid: https://www.tortorse.com/?p=630
 permalink: /archives/630
 dsq_thread_id:
   - "3444281311"

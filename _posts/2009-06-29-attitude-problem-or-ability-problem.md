@@ -5,7 +5,7 @@ date: 2009-06-29T23:27:01+00:00
 author: 愆伏
 excerpt: 公司上了几个新项目。我的Team负责开发，我主导各项工作。产品上了线问题挺多，BOSS对我和我的团队都不满意。我知道他挺失望，我也不愿意看到。最后总结，我归结为三个字“人不行”（估计BOSS也这么想我们）：设计师的考虑不够周详，前端工程师的经验不足，程序员的水平不靠谱。但我始终相信这些问题的根源来自于做事情的态度，而不是能力问题。
 
-guid: http://www.tortorse.com/archives/259
+guid: https://www.tortorse.com/archives/259
 permalink: /archives/259
 dsq_thread_id:
   - "3444277981"

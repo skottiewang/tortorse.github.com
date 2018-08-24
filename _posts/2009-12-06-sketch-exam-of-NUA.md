@@ -4,7 +4,7 @@ title: 2009年下半年南艺自考设计素描(本科)
 date: 2009-12-06T15:18:43+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/296
+guid: https://www.tortorse.com/archives/296
 permalink: /archives/296
 dsq_thread_id:
 - "3444277172"

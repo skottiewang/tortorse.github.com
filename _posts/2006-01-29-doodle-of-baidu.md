@@ -19,7 +19,7 @@ tags:
 
 这个logo据说是出自蔡志忠之手
 
-至于内容，我看了[介绍](http://logo.baidu.com/logo2006chunjie.html) 才知道左边那位古装人物是庄子。
+至于内容，我看了[介绍](https://logo.baidu.com/logo2006chunjie.html) 才知道左边那位古装人物是庄子。
 
 荷花荷叶组成的应该就是百度传说中的“熊爪”图案了
 

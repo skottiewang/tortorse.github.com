@@ -4,7 +4,7 @@ title: 《玩赚你的网站》是本难得的好书
 date: 2010-06-04T21:46:52+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/339
+guid: https://www.tortorse.com/archives/339
 permalink: /archives/339
 dsq_thread_id:
   - "3444277319"
@@ -14,7 +14,7 @@ tags:
   - 互联网
   - 读书
 ---
-今年的好书似乎特别多，王坚的 [结网](http://book.douban.com/subject/4736118/)、苏杰的 `人人都是产品经理`、杨帆的 `SEO攻略`，还有这本陈光峰的 [玩赚你的网站](http://book.douban.com/subject/4823093/)
+今年的好书似乎特别多，王坚的 [结网](https://book.douban.com/subject/4736118/)、苏杰的 `人人都是产品经理`、杨帆的 `SEO攻略`，还有这本陈光峰的 [玩赚你的网站](https://book.douban.com/subject/4823093/)
 
 互联网似乎人人都懂，看起来有那么简单
   

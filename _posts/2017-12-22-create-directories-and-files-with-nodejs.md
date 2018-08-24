@@ -4,7 +4,7 @@ title: 通过nodejs创建目录与文件
 date: 2017-12-22T16:02:55+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=872
+guid: https://www.tortorse.com/?p=872
 permalink: /archives/872
 categories:
   - 技术

@@ -13,7 +13,7 @@ tags:
   - 互联网
   - 搞笑
 ---
-打开 [阿里网](http://www.aliw.com.cn)，首先映入眼帘的是一个酷似 [阿里妈妈](http://www.alimama.com) 的网站界面</a>
+打开 [阿里网](https://www.aliw.com.cn)，首先映入眼帘的是一个酷似 [阿里妈妈](https://www.alimama.com) 的网站界面</a>
 
 ![ali](/wp-content/uploads/200708/28_142143_ali.jpg)
 

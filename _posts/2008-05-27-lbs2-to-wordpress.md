@@ -4,7 +4,7 @@ title: LBS^2转到wordpress2.5
 date: 2008-05-27T00:17:44+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/146
+guid: https://www.tortorse.com/archives/146
 permalink: /archives/146
 dsq_thread_id:
   - "3444279195"
@@ -14,7 +14,7 @@ tags:
   - 互联网
   - wordpress
 ---
-从03年写博客到现在已经5年了，第一年用的BSP是blogcn的。第二年由于学校提供免费的 `blog` 空间，于是就换成了猪飞飞的 `D-log`，并按照 [破废墟](http://poorfish.cn/) 写的文章进行了一定的修改。由于 `D-log` 的一些漏洞难于修补，遂换到了 `loveyuki` 的 `L-blog`。`Sic` 在 `L-blog` 的基础上写了 `LBS^2`,06年初我开始使用此系统至今。
+从03年写博客到现在已经5年了，第一年用的BSP是blogcn的。第二年由于学校提供免费的 `blog` 空间，于是就换成了猪飞飞的 `D-log`，并按照 [破废墟](https://poorfish.cn/) 写的文章进行了一定的修改。由于 `D-log` 的一些漏洞难于修补，遂换到了 `loveyuki` 的 `L-blog`。`Sic` 在 `L-blog` 的基础上写了 `LBS^2`,06年初我开始使用此系统至今。
 
 LBS其实是个不错的单用户博客系统，如果不是不支持 `xml-RPC` 加上我 `asp` 空间到期的话，我也不会下这个决定。经过半天的努力，终于尘埃落定。LBS^2完美的换成了 `wordpress2.5`。(鼓掌)
 
@@ -24,7 +24,7 @@ LBS其实是个不错的单用户博客系统，如果不是不支持 `xml-RPC` 
 
 在环境搭建好了以后，我们使用 [转换程序](/wp-content/uploads/2008/05/convert.zip) 进行数据库转换。按照文件中的要求进行配置，然后将 `LBS` 的 `.mdb` 文件和`convert.asp` 放在相应目录中，使用本地 `asp` 环境运行`convert.asp` 得到一个 `SQL` 文件，这个文件内容需要替换，具体参见本文结尾的参考文章。
 
-这时候在php环境里面安装 `wordpress` 的 `2.0.7` 版本，下载地址是：<http://wordpress.org/wordpress-2.0.7.zip>，具体安装不在赘述。安装完毕后使用本地的 `mysql` 命令行进行导入
+这时候在php环境里面安装 `wordpress` 的 `2.0.7` 版本，下载地址是：<https://wordpress.org/wordpress-2.0.7.zip>，具体安装不在赘述。安装完毕后使用本地的 `mysql` 命令行进行导入
 
 ```bash
 $ use {wordpress的数据库名}
@@ -43,8 +43,8 @@ $ source {之前导出的sql路径}
 
 
 本文主要参考的文章有2篇
-- [LBS to WordPress2.1 完美攻略 &#8211; 姿态永恒](http://www.awflasher.com/blog/archives/670)   
-- [LBS转WordPress全攻略](http://my.donews.com/zola/2005/12/23/lbs%e8%bd%acwordpress%e5%85%a8%e6%94%bb%e7%95%a5/)
+- [LBS to WordPress2.1 完美攻略 &#8211; 姿态永恒](https://www.awflasher.com/blog/archives/670)   
+- [LBS转WordPress全攻略](https://my.donews.com/zola/2005/12/23/lbs%e8%bd%acwordpress%e5%85%a8%e6%94%bb%e7%95%a5/)
 
 目前feed部分还是出错，尚未找到解决办法。有知道的朋友提点一下。
 

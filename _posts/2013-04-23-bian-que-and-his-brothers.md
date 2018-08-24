@@ -4,7 +4,7 @@ title: 扁鹊三兄弟
 date: 2013-04-23T16:31:50+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=413
+guid: https://www.tortorse.com/?p=413
 permalink: /archives/413
 dsq_thread_id:
   - "3444281434"

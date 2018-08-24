@@ -13,7 +13,7 @@ tags:
 ---
 ![微软三剑客](/wp-content/uploads/200609/09_002109_boxshot_mainwd.jpg)
   
-前2天下了个 [Microsoft Expression Webdesigner](http://www.microsoft.com/products/expression/en/web_designer/default.mspx) </a>的试用版
+前2天下了个 [Microsoft Expression Webdesigner](https://www.microsoft.com/products/expression/en/web_designer/default.mspx) </a>的试用版
   
 去网上一搜，发现微软的野心远远不止于此，`Expression` 是一个系列，跟从前 `macromedia` 的 `studio` 形式差不多。除了`Webdesigner` 之外，还有 `Graphic designer`，`Interactive Designer` 2个工具。这3个玩意感觉就是专门针对 `Adobe` 的三剑客的
 

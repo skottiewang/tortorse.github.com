@@ -10,7 +10,7 @@ categories:
 tags:
   - 互联网
 ---
-以下内容转载自[白鸦的blog](http://www.uicom.net) :
+以下内容转载自[白鸦的blog](https://www.uicom.net) :
 
 > 前几天蓝色找我说“发现UE现在的发展很好，但大家好像都没有什么好的交流场所，正在考虑开一个用户体验的版块”问我有没有时间一起做个斑竹什么的，
   
@@ -37,4 +37,4 @@ tags:
 > 3、烦劳对这个有兴趣的朋友帮忙把这个消息转到你的BLOG上，我们一起来推广..
 
 
-地址：[蓝色理想用户体验版](http://www.blueidea.com/bbs/list.asp?GroupName=%D3%C3%BB%A7%CC%E5%D1%E9%D7%DB%BA%CF%B0%E6)
+地址：[蓝色理想用户体验版](https://www.blueidea.com/bbs/list.asp?GroupName=%D3%C3%BB%A7%CC%E5%D1%E9%D7%DB%BA%CF%B0%E6)

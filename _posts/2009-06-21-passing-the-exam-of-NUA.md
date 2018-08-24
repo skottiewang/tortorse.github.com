@@ -4,7 +4,7 @@ title: 南艺自考顺利达标
 date: 2009-06-21T23:05:57+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/327
+guid: https://www.tortorse.com/archives/327
 permalink: /archives/327
 dsq_thread_id:
   - "3444278180"

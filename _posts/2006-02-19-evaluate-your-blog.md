@@ -15,4 +15,4 @@ tags:
 
 ![blg-rank](/wp-content/uploads/200602/19_115017_rank.jpg)
   
-[评测地址](http://www.anyp.cn/value/Default.aspx)
+[评测地址](https://www.anyp.cn/value/Default.aspx)

@@ -20,13 +20,13 @@ LBS自带的搜索其实做的不错，但由于不是全文检索并存在日�
 ## 1.百度的：
   
 ```html
-<form action="http://www.baidu.com/baidu" target="_blank">
+<form action="https://www.baidu.com/baidu" target="_blank">
   <table bgcolor="#FFFFFF">
     <tbody>
     <tr>
       <td>
         <input name="tn" type="hidden" value="baidu"><br>
-        <a href="http://www.baidu.com/"><img src="http://img.baidu.com/img/logo-80px.gif" alt="Baidu" align="bottom" border="0"></a><br>
+        <a href="https://www.baidu.com/"><img src="https://img.baidu.com/img/logo-80px.gif" alt="Baidu" align="bottom" border="0"></a><br>
         <input type="text" name="word" size="30"><br>
         <input type="submit" value="百度搜索">
       </td>
@@ -39,7 +39,7 @@ LBS自带的搜索其实做的不错，但由于不是全文检索并存在日�
 如果你不需要百度的logo的话，可以把
 
 ```html
-<a href="http://www.baidu.com/"><img src="http://img.baidu.com/img/logo-80px.gif" alt="Baidu" align="bottom" border="0"></a><br>
+<a href="https://www.baidu.com/"><img src="https://img.baidu.com/img/logo-80px.gif" alt="Baidu" align="bottom" border="0"></a><br>
 ```
 去除
 
@@ -48,7 +48,7 @@ LBS自带的搜索其实做的不错，但由于不是全文检索并存在日�
 例如：
   
 ```html
-<form action="http://www.baidu.com/baidu" target="_blank" id="searchBar">
+<form action="https://www.baidu.com/baidu" target="_blank" id="searchBar">
 ```
 然后在你使用的css中，可以对 `searchBar`及其下的元素进行定义，如：
 
@@ -69,8 +69,8 @@ LBS自带的搜索其实做的不错，但由于不是全文检索并存在日�
   <tbody>
   <tr>
     <td>
-    <a href="http://www.google.com/intl/zh-CN/"><br>
-    <img src="http://www.google.com/logos/Logo_40wht.gif" border="0" alt="Google" align="absmiddle"></a><br>
+    <a href="https://www.google.com/intl/zh-CN/"><br>
+    <img src="https://www.google.com/logos/Logo_40wht.gif" border="0" alt="Google" align="absmiddle"></a><br>
     <input type="text" name="q" size="31" maxlength="255" value=""><br>
     <input type="hidden" name="ie" value="GB2312"><br>
     <input type="hidden" name="oe" value="GB2312"><br>

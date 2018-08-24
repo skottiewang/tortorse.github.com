@@ -4,7 +4,7 @@ title: Github Issue Robot 思路
 date: 2018-06-14T09:10:31+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=943
+guid: https://www.tortorse.com/?p=943
 permalink: /archives/943
 categories:
   - 技术

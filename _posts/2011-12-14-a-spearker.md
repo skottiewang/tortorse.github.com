@@ -4,7 +4,7 @@ title: 一只音箱——漫步者M0pro
 date: 2011-12-14T11:38:45+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=375
+guid: https://www.tortorse.com/?p=375
 permalink: /archives/375
 dsq_thread_id:
   - "3444279445"

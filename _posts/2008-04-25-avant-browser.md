@@ -31,4 +31,4 @@ tags:
   
 如今 `Maxthon` 的市场占有率已经很可观，`Avant Browser` 卷土重来的机会有多大，我持观望态度。
 
-有兴趣的朋友可以去下载用用看：<http://www.avantbrowser.cn>
+有兴趣的朋友可以去下载用用看：<https://www.avantbrowser.cn>

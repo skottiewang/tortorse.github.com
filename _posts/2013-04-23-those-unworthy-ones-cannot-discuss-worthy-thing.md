@@ -4,7 +4,7 @@ title: 竖子不足与谋
 date: 2013-04-23T16:06:53+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=412
+guid: https://www.tortorse.com/?p=412
 permalink: /archives/412
 dsq_thread_id:
   - "3444281384"

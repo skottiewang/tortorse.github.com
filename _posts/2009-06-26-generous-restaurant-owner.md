@@ -5,7 +5,7 @@ date: 2009-06-26T15:46:37+00:00
 author: 愆伏
 excerpt: 公司附近有几家小饭店，经营方式各异。有两家比较特别的，能看到一些很有趣的经营方法，值得做互联网的好好学习。
 
-guid: http://www.tortorse.com/archives/258
+guid: https://www.tortorse.com/archives/258
 permalink: /archives/258
 dsq_thread_id:
   - "3444277823"

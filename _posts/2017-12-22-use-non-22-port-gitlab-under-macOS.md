@@ -4,7 +4,7 @@ title: mac 下使用ssh访问非22端口的gitlab
 date: 2017-12-22T16:00:39+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/?p=868
+guid: https://www.tortorse.com/?p=868
 permalink: /archives/868
 categories:
   - 技术

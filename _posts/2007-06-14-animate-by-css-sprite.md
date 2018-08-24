@@ -12,7 +12,7 @@ tags:
   - 前端
   - google
 ---
-[google韩国的首页](http://www.google.co.kr/ig?sp=korea&hl=ko) 前段时间很火
+[google韩国的首页](https://www.google.co.kr/ig?sp=korea&hl=ko) 前段时间很火
   
 一来是因为 `google` 终于进入了韩国市场，二来是因为首页下部几个动画菜单
   
@@ -20,7 +20,7 @@ tags:
 
 ![sprite](/wp-content/uploads/200706/14_224440_google.png)
 
-于是乎牵扯出关于图片使用效率的话题 <http://blog.rexsong.com/?p=746>
+于是乎牵扯出关于图片使用效率的话题 <https://blog.rexsong.com/?p=746>
 
 本人不才，用 `css` 加上拙劣的 `js` 也写了类似效果
   
@@ -30,7 +30,7 @@ tags:
   
 用 `js` 的 `setTimeout()` 来创建动画效果
   
-具体效果看[Demo](http://www.tortorse.com/demo/roll.html)
+具体效果看[Demo](https://www.tortorse.com/demo/roll.html)
   
 
 我的图片

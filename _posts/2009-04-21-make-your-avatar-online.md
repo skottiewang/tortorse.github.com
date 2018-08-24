@@ -5,7 +5,7 @@ date: 2009-04-21T21:56:05+00:00
 author: 愆伏
 excerpt: 在某些论坛上经常看到这样的头像，一直不知道是谁画的，今天发现原来有这么一个在线生成卡通头像的服务——FaceYourManga。Manga这个词应该是日文英译，漫画的意思（英文一般叫做Comic）。
 
-guid: http://www.tortorse.com/archives/237
+guid: https://www.tortorse.com/archives/237
 permalink: /archives/237
 dsq_thread_id:
   - "3444277764"
@@ -16,9 +16,9 @@ tags:
 ---
 ![avatars](/wp-content/uploads/2009/04/avatar-list-thumb2.gif)
 
-之前在某些论坛上经常看到这样的头像，一直不知道是谁画的，今天发现原来有这么一个在线生成卡通头像的服务——[FaceYourManga](http://www.faceyourmanga.it)。`Manga` 这个词应该是日文英译，漫画的意思（英文一般叫做 `Comic`）。
+之前在某些论坛上经常看到这样的头像，一直不知道是谁画的，今天发现原来有这么一个在线生成卡通头像的服务——[FaceYourManga](https://www.faceyourmanga.it)。`Manga` 这个词应该是日文英译，漫画的意思（英文一般叫做 `Comic`）。
 
-这种类型的玩意儿发展发展就成了纸娃娃系统，比较典型的是 [赛我](http://www.cyworld.com.cn/main/) 以及后面派生的QQ秀。这两种的使用局限于某种特定平台，而 [FaceYourManga](http://www.faceyourmanga.it) 则开放很多，只生成图片，至于用在哪里悉听尊便。再加上各个部件绘制比较精美，目前在网上还算流行。不知道这玩意儿如果和 [gravatar](http://en.gravatar.com/) 结合一下会产生怎样的结果？
+这种类型的玩意儿发展发展就成了纸娃娃系统，比较典型的是 [赛我](https://www.cyworld.com.cn/main/) 以及后面派生的QQ秀。这两种的使用局限于某种特定平台，而 [FaceYourManga](https://www.faceyourmanga.it) 则开放很多，只生成图片，至于用在哪里悉听尊便。再加上各个部件绘制比较精美，目前在网上还算流行。不知道这玩意儿如果和 [gravatar](https://en.gravatar.com/) 结合一下会产生怎样的结果？
 
 忙乎了一会儿，给自己也搞了一个，被人戏称“凶凶的胡子大叔”
 

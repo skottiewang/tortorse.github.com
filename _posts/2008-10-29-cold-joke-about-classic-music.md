@@ -4,7 +4,7 @@ title: 古典音乐——冷笑话
 date: 2008-10-29T23:11:46+00:00
 author: 愆伏
 
-guid: http://www.tortorse.com/archives/205
+guid: https://www.tortorse.com/archives/205
 permalink: /archives/205
 aktt_notify_twitter:
   - 'no'
