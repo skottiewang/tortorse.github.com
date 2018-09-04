@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>鼠标操作交互优化</title>
+  <style>
+    /* CSS Document */
+    body {
+      text-align: center;
+      background: lightgray;
+      font-size: 12px;
+    }
+
+    table {
+      background: lightgray;
+      color: #000;
+      font-size: 12px;
+    }
+
+    table th,
+    td {
+      padding: 0 0 0 4px;
+      text-align: left;
+      font-weight: normal;
+      border-top: 1px solid window;
+      border-right: 1px solid threedshadow;
+      border-bottom: 1px solid threedshadow;
+      border-left: 1px solid window;
+    }
+
+    input {
+      width: 120px;
+      height: 18px;
+      margin: 0;
+      padding: 0;
+      border: none;
+      background: none;
+    }
+
+    td.write {
+      border-top: 1px solid threedshadow;
+      border-right: 1px solid window;
+      border-bottom: 1px solid window;
+      border-left: 1px solid threedshadow;
+    }
+
+    td.select {
+      border-top: 1px solid threedshadow;
+      border-right: 1px solid window;
+      border-bottom: 1px solid window;
+      border-left: 1px solid threedshadow;
+    }
+
+    ol {
+      text-align: left;
+    }
+
+    li {
+      list-style: decimal;
+    }
+
+    legend {
+      margin: 10px 0 0 0;
+    }
+
+    fieldset {
+      margin: 10px 0 0 0;
+      width: 90%;
+      height: 260px;
+    }
+
+    button {
+      height: 20px;
+    }
+  </style>
+  <script type="text/javascript">
+    function editText(obj) {
+      var dateBox = obj.parentElement;
+      if (dateBox.className == "select") {
+        obj.readOnly = false;
+        dateBox.className = "write";
+        obj.select();
+      }
+      if (dateBox.className == "") { dateBox.className = "select" }
+    }
+    function readText(obj) {
+      var dateBox = obj.parentElement;
+      obj.readOnly = true;
+      dateBox.className = "";
+    }
+
+    function openDetail() {
+      // showModelessDialog('modeldiag.html', window, 'status:no;dialogWidth:300px;dialogHeight:320px;dialogTop:150px;dialogLeft:80px;help:no')
+      confirm('详细信息')
+    }
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97072659-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-97072659-1');
+  </script>
+</head>
+
+<body>
+  <h2 id="1">原有交互，单双击混合</h2>
+  <ol>
+    <li>在日期上点击一下鼠标，该单元格被选中</li>
+    <li>再次点击该单元格，该单元格可写</li>
+    <li>双击该单元格，弹出详细信息对话框</li>
+  </ol>
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="60">姓名</th>
+      <th width="40">性别</th>
+      <th width="120">时间</th>
+    </tr>
+    <tr>
+      <td>李世民</td>
+      <td>男</td>
+      <td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"
+          ondblclick="openDetail()" /></td>
+    </tr>
+    <tr>
+      <td>尉迟敬德</td>
+      <td>男</td>
+      <td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"
+          ondblclick="openDetail()" /></td>
+    </tr>
+    <tr>
+      <td>李靖</td>
+      <td>男</td>
+      <td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"
+          ondblclick="openDetail()" /></td>
+    </tr>
+    <tr>
+      <td>红拂</td>
+      <td>女</td>
+      <td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"
+          ondblclick="openDetail()" /></td>
+    </tr>
+  </table>
+  <h2 id="2">优化交互，分离操作</h2>
+  <ol>
+    <li>在日期上点击一下鼠标，该单元格被选中</li>
+    <li>再次点击该单元格，该单元格可写</li>
+    <li>点击"详细信息"按钮，弹出详细信息对话框</li>
+  </ol>
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="60">姓名</th>
+      <th width="40">性别</th>
+      <th width="120">时间</th>
+      <th width="80">操作</th>
+    </tr>
+    <tr>
+      <td>李世民</td>
+      <td>男</td>
+      <td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"
+        /></td>
+      <td><button onclick="openDetail()">详细信息</button></td>
+    </tr>
+    <tr>
+      <td>尉迟敬德</td>
+      <td>男</td>
+      <td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"
+        /></td>
+      <td><button onclick="openDetail()">详细信息</button></td>
+    </tr>
+    <tr>
+      <td>李靖</td>
+      <td>男</td>
+      <td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"
+        /></td>
+      <td><button onclick="openDetail()">详细信息</button></td>
+    </tr>
+    <tr>
+      <td>红拂</td>
+      <td>女</td>
+      <td><input type="text" size="10" maxlength="10" readonly="true" value="2006-07-01" onclick="editText(this)" onblur="readText(this)"
+        /></td>
+      <td><button onclick="openDetail()">详细信息</button></td>
+    </tr>
+  </table>
+</body>
+
+</html>

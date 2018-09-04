@@ -17,7 +17,7 @@ tags:
 
 ![医嘱系统界面](/wp-content/uploads/200706/21_222918_mouse.jpg)
 
-[点击查看demo](/demo/mouse/mouse.html)
+[点击查看demo](/demo/mouse.html#1)
 
 其中时间是经常需要修改的。为了快速修改，她必须尽可能快的点击鼠标，可是连续点击鼠标就形成了双击。操作产生的结果并不是她想要的。
   
@@ -29,6 +29,4 @@ tags:
 
 ![修改界面](/wp-content/uploads/200706/21_222944_mouse_plus.jpg)
 
-[点击查看demo](/demo/mouse/mouse_plus.html)
-
-以上例子仅支持 `IE`
+[点击查看demo](/demo/mouse.html#2)
