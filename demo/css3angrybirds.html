@@ -1,52 +1,222 @@
 <!DOCTYPE HTML>
 <html>
+
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Angrybird in pure CSS3!</title>
-<link rel="stylesheet" type="text/css" href="styles/angrybirds.css" />
-<link rel="stylesheet" href="https://www.tortorse.com/wp-content/themes/bbx/style.css" type="text/css"  />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Draw an Angrybird in pure CSS3</title>
+  <style>
+    #redbird {
+      position: relative;
+      margin: 70px auto;
+      width: 200px;
+      height: 220px;
+    }
+
+    #head {
+      position: absolute;
+      width: 200px;
+      height: 200px;
+      border: 2px solid #000;
+      border-radius: 100px;
+      background: #FF0A0E;
+      z-index: 1;
+    }
+
+    #head:after {
+      content: '';
+      position: absolute;
+      width: 200px;
+      height: 200px;
+      bottom: -2px;
+      left: -2px;
+      border: 2px solid #000;
+      border-radius: 100px;
+    }
+
+    .eye {
+      width: 50px;
+      height: 50px;
+      border: 1px solid #000;
+      border-radius: 25px;
+      background: #fff;
+      position: absolute;
+      top: 70px;
+    }
+
+    .eye:after {
+      content: '';
+      width: 20px;
+      height: 20px;
+      background: #000;
+      position: absolute;
+      border-radius: 10px;
+      top: 15px;
+    }
+
+    #left_eye {
+      left: 48px;
+    }
+
+    #right_eye {
+      right: 48px;
+    }
+
+    #left_eye:after {
+      left: 20px;
+    }
+
+    #right_eye:after {
+      right: 20px;
+    }
+
+    .brow {
+      width: 75px;
+      height: 20px;
+      background: #000;
+      position: absolute;
+      top: 60px;
+    }
+
+    #left_brow {
+      left: 27px;
+      transform: rotate(10deg);
+      -moz-transform: rotate(10deg);
+      -webkit-transform: rotate(10deg);
+    }
+
+    #right_brow {
+      right: 27px;
+      transform: rotate(-10deg);
+      -moz-transform: rotate(-10deg);
+      -webkit-transform: rotate(-10deg);
+    }
+
+    #white {
+      width: 120px;
+      height: 120px;
+      border-radius: 60px;
+      background: #fff;
+      position: absolute;
+      bottom: -60px;
+      left: 40px;
+    }
+
+    #hair {
+      width: 60px;
+      height: 20px;
+      border: 2px solid #000;
+      border-radius: 30px;
+      background: #FF0A0E;
+      position: absolute;
+      transform: rotate(7deg);
+      -moz-transform: rotate(7deg);
+      -webkit-transform: rotate(7deg);
+      left: 45px;
+      top: -10px;
+      z-index: 0
+    }
+
+    #hair:before {
+      width: 60px;
+      height: 20px;
+      content: '';
+      border: 2px solid #000;
+      border-radius: 30px;
+      background: #FF0A0E;
+      position: absolute;
+      transform: rotate(45deg);
+      -moz-transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);
+      left: 15px;
+      top: -15px;
+      z-index: 0
+    }
+
+    #mouth {
+      width: 50px;
+      height: 50px;
+      background: #F2A624;
+      position: absolute;
+      bottom: 40px;
+      left: 75px;
+      transform: rotate(45deg);
+      -moz-transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);
+      border: 1px solid #000;
+    }
+
+    #mouth:before {
+      content: '';
+      width: 60px;
+      height: 1px;
+      border-top: 1px solid #000;
+      position: absolute;
+      transform: rotate(-45deg);
+      -moz-transform: rotate(-45deg);
+      -webkit-transform: rotate(-45deg);
+      top: 20px;
+      left: 0;
+      z-index: 2;
+    }
+
+    #tail {
+      width: 40px;
+      height: 10px;
+      background: #000;
+      position: absolute;
+      top: 130px;
+      top: 130px;
+      left: -14px;
+    }
+
+    #tail:before {
+      content: '';
+      width: 40px;
+      height: 10px;
+      background: #000;
+      position: absolute;
+      left: 0;
+      transform: rotate(45deg);
+      -moz-transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);
+    }
+
+    #tail:after {
+      content: '';
+      width: 40px;
+      height: 10px;
+      background: #000;
+      position: absolute;
+      left: 10;
+      transform: rotate(-45deg);
+      -moz-transform: rotate(-45deg);
+      -webkit-transform: rotate(-45deg);
+    }
+  </style>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-97072659-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-97072659-1');
+	</script>
 </head>
 
 <body>
-<div id="wrapper">
-	<div id="header">
-    	<h2><a title="愆伏" href="https://www.tortorse.com">愆伏's website</a></h2>
+  <div id="redbird">
+    <div id="head">
+      <div id="left_eye" class="eye"></div>
+      <div id="right_eye" class="eye"></div>
+      <div id="left_brow" class="brow"></div>
+      <div id="right_brow" class="brow"></div>
+      <div id="white"></div>
+      <div id="mouth"></div>
     </div>
-    <div id="content">
-        <div id="main">
-            <div class="post">
-            <h2>Draw an angrybird with pure CSS</h2>
-                <div id="redbird">
-                    <div id="head">
-                        <div id="left_eye" class="eye"></div>
-                        <div id="right_eye" class="eye"></div>
-                        <div id="left_brow" class="brow"></div>
-                        <div id="right_brow" class="brow"></div>
-                        <div id="white"></div>
-                        <div id="mouth"></div>
-                    </div>
-                    <div id="hair"></div>
-                    <div id="tail"></div>
-                </div>
-            <div class="post_info">
-            Read:<a href="https://www.tortorse.com/archives/381">Draw an angrybird with pure CSS</a>
-            </div>
-            </div>
-        </div>
-        <div id="side">
-        	<div class="clearfix" id="user">
-            <div id="avatar"> <a href="https://www.tortorse.com"><img width="50" height="50" src="https://0.gravatar.com/avatar/67327baa83d04f0c21dbb20ec361a952?s=64&amp;d=http%3A//0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=64&amp;r=G"></a>
-            </div>
-            <div id="userinfo">
-                <p id="intro">tortorse is a Web Designer/Developer who
-    			loves insects,html+css and product design</p>
-            </div>
-		</div>
-        </div>
-    </div>
-</div>
-<span style="display:none">
-<script language="javascript" src="https://count4.51yes.com/click.aspx?id=48122324&logo=12" charset="gb2312"></script>
-</span>
+    <div id="hair"></div>
+    <div id="tail"></div>
+  </div>
 </body>
+
 </html>
