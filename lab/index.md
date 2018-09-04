@@ -3,7 +3,7 @@ layout: page
 type: lab
 ---
 
-平时的一些灵感和想法，我会把它变成实际的东西放在这里。本页面的诞生受到 <http://www.ikent.me/blog/demo> 的启发
+平时的一些灵感和想法，我会把它变成实际的东西放在这里。本页面的诞生受到 [kent.zhu](http://www.ikent.me/blog/demo) 的启发
 
 ## [衣橱诊断](https://www.tortorse.com/wardrobe-diagnostics/)
 
