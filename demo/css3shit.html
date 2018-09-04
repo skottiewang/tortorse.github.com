@@ -1,46 +1,139 @@
 <!DOCTYPE HTML>
 <html>
+
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Draw a shit with pure CSS - by tortorse</title>
-<link rel="stylesheet" type="text/css" href="styles/shit.css" />
-<link rel="stylesheet" href="https://www.tortorse.com/wp-content/themes/bbx/style.css" type="text/css"  />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Draw a shit with pure CSS - by tortorse</title>
+  <style>
+    #shit {
+      position: relative;
+      width: 250px;
+      margin: 0 auto 30px;
+      height: 250px;
+      z-index: 1;
+    }
+
+    #level {
+      width: 200px;
+      height: 90px;
+      border: 2px solid #C90;
+      background: -moz-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      background: -webkit-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      border-radius: 90px;
+      position: absolute;
+      bottom: 10px;
+    }
+
+    #level:after {
+      content: '';
+      width: 100px;
+      height: 60px;
+      border: 2px solid #C90;
+      background: -moz-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      background: -webkit-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      border-radius: 60px;
+      position: absolute;
+      bottom: 80px;
+      left: 50px;
+    }
+
+    #level:before {
+      content: '';
+      width: 160px;
+      height: 80px;
+      border: 2px solid #C90;
+      background: -moz-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      background: -webkit-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      border-radius: 80px;
+      position: absolute;
+      bottom: 40px;
+      left: 20px;
+    }
+
+    #hair {
+      width: 60px;
+      margin: 0 auto;
+      height: 50px;
+      border: 2px solid #C90;
+      background: -moz-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      background: -webkit-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      position: absolute;
+      bottom: 125px;
+      left: 72px;
+      border-radius: 30px;
+      z-index: 1;
+    }
+
+    #hair:before {
+      content: '';
+      width: 80px;
+      height: 60px;
+      margin: 0 auto;
+      background: #fff;
+      position: absolute;
+      bottom: 26px;
+      left: 14px;
+      border-left: 2px solid #C90;
+      border-radius: 50px;
+      z-index: 1;
+    }
+
+    #hair:after {
+      content: '';
+      width: 50px;
+      margin: 0 auto;
+      height: 30px;
+      border-top: 2px solid #C90;
+      border-right: 2px solid #C90;
+      background: -moz-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      background: -webkit-linear-gradient(right top, #FFDC98, #FC6 35%, #DFAC27 73%);
+      position: absolute;
+      bottom: 0;
+      left: 13px;
+      border-radius: 20px;
+      z-index: 1;
+    }
+
+    #over {
+      width: 50px;
+      height: 40px;
+      margin: 0 auto;
+      position: absolute;
+      left: 65px;
+      bottom: 177px;
+      background: #fff;
+      z-index: 1;
+    }
+
+    #shit:after {
+      content: '';
+      width: 160px;
+      height: 45px;
+      position: absolute;
+      box-shadow: -10px 20px 40px rgba(0, 0, 0, 0.8);
+      z-index: -1;
+      bottom: 35px;
+      left: 15px;
+    }
+  </style>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97072659-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-97072659-1');
+  </script>
 </head>
 
 <body>
-<div id="wrapper">
-	<div id="header">
-    	<h2><a title="愆伏" href="https://www.tortorse.com">愆伏's website</a></h2>
-    </div>
-    <div id="content">
-        <div id="main">
-            <div class="post">
-            <h2>Draw a shit with pure CSS</h2>
-            <div id="shit">
-                <div id="level"></div>
-                <div id="hair"></div>
-                <div id="cover"></div>
-                <div id="over"></div>
-            </div>
-            <div class="post_info">
-            Read:<a href="https://www.tortorse.com/archives/378">Draw a shit with pure CSS</a>
-            </div>
-            </div>
-        </div>
-        <div id="side">
-        	<div class="clearfix" id="user">
-            <div id="avatar"> <a href="https://www.tortorse.com"><img width="50" height="50" src="https://0.gravatar.com/avatar/67327baa83d04f0c21dbb20ec361a952?s=64&amp;d=http%3A//0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=64&amp;r=G"></a>
-            </div>
-            <div id="userinfo">
-                <p id="intro">tortorse is a Web Designer/Developer who
-    			loves insects,html+css and product design</p>
-            </div>
-		</div>
-        </div>
-    </div>
-</div>
-<span style="display:none">
-<script language="javascript" src="https://count4.51yes.com/click.aspx?id=48122324&logo=12" charset="gb2312"></script>
-</span>
+  <div id="shit">
+    <div id="level"></div>
+    <div id="hair"></div>
+    <div id="cover"></div>
+    <div id="over"></div>
+  </div>
 </body>
+
 </html>
