@@ -1,6 +1,6 @@
 ---
 id: 979
-title: 低成本打造个人独立博客
+title: 低成本打造独立博客之高阶篇
 date: 2018-10-09T11:06:20+00:00
 author: 愆伏
 permalink: /archives/979
@@ -9,7 +9,6 @@ categories:
 tags:
   - 博客
 ---
-# 低成本打造独立博客之高阶篇
 
 上一篇 [低成本打造个人独立博客](https://www.tortorse.com/archives/978) 主要介绍了博客的搭建过程，适合从零开始的朋友。
 
