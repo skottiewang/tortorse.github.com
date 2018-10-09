@@ -84,7 +84,7 @@ pwd
 
 ## 3. 绑定域名
 
-回到 [Github])(https://github.com/)，进入你博客所在的仓，点击 `Settings`，找到 `Github Pages`部分，在`Custom domain`里面填入你博客的地址，注意不要是顶级域名。不要问我为什么，谁试谁知道。比如我的博客就填入 `www.tortorse.com`。暂时不要勾选 `Enforce HTTPS `, 因为我们还没做域名指向，勾了也没用。
+回到 [Github](https://github.com/)，进入你博客所在的仓，点击 `Settings`，找到 `Github Pages`部分，在`Custom domain`里面填入你博客的地址，注意不要是顶级域名。不要问我为什么，谁试谁知道。比如我的博客就填入 `www.tortorse.com`。暂时不要勾选 `Enforce HTTPS `, 因为我们还没做域名指向，勾了也没用。
 
 现在打开你域名服务商的后台，找到DNS解析的部分。将原来的 A 记录改为以下里面的任意一个：
 
