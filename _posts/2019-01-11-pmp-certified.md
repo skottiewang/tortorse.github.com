@@ -5,7 +5,7 @@ date: 2018-01-11T11:15:20+00:00
 author: 愆伏
 permalink: /archives/983
 categories:
-  - 成就
+  - 杂谈
 tags:
   - PMP
 ---
