@@ -1,7 +1,7 @@
 ---
 id: 983
 title: PMP认证考试5A通过
-date: 2018-01-11T11:15:20+00:00
+date: 2019-01-11T11:15:20+00:00
 author: 愆伏
 permalink: /archives/983
 categories:
