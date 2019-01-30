@@ -1,7 +1,7 @@
 ---
 id: 984
 title: 「译」构建你的色板
-date: 2018-01-30T09:22:20+00:00
+date: 2019-01-30T09:22:20+00:00
 author: 愆伏
 permalink: /archives/984
 categories:
